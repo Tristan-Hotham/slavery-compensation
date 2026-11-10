@@ -1,0 +1,101 @@
+sample,verdict,house_name,town_city,hcounty,precision,listed_name,listed_grade,match_km
+match,wrong,Mythe Villa,Tewkesbury,Gloucestershire,exact,THE MYTHE,II,0.16366595872981016
+match,right,Compton Castle,Compton Pauncefoot,Somerset,exact,Compton Castle,II*,0.005605425709757332
+match,right,Whittington Hall,Whittington,Lancashire,exact,WHITTINGTON HALL,II*,0.031043981778404006
+match,right,Newton House,,Aberdeenshire,exact,Newton House,B,0.008356227830930832
+match,right,Speke Hall,Liverpool,Lancashire,exact,SPEKE HALL,I,0.020250347438393983
+match,right,Cromarty House,Cromarty,Ross & Cromarty,exact,Cromarty House,A,0.001105032488201108
+match,right,Barnbarroch,Kirkinner,Wigtownshire,area,Barnbarroch,B,0.6958286667996032
+match,right,Belmont House,Wraxall,Somerset,exact,BELMONT HOUSE AND RACQUETS COURT,II,0.0077726512587176205
+match,wrong,Hallow Park,Hallow,Worcestershire,exact,HALLOW SCHOOL,II,0.8457983482150633
+match,wrong,Mythe House,Tewkesbury,Gloucestershire,street,THE MYTHE,II,0.7484243097614853
+match,right,Seaton House,Arbroath,Forfarshire,exact,Seaton House,B,0.0026314795844237493
+match,wrong,Ashe Park,,Hampshire,exact,ASHE HOUSE,II,0.8518493506760737
+match,right,Langley Park,Montrose,Forfarshire,exact,Langley Park House,B,0.01978231295365508
+match,right,Riddlesworth Hall,,Norfolk,exact,RIDDLESWORTH HALL SCHOOL,II,0.13351353976895725
+match,right,Ashridge Estate,Berkhamsted,Hertfordshire,exact,"Ashridge House, including raised terrace, walls and steps to east and south, and iron railings to north",I,0.04334519254218049
+match,right,Lambridge House,Swainswick,Somerset,area,LAMBRIDGE HOUSE AND ATTACHED OUTHOUSE,II,1.4979146330150486
+match,right,Juniper Hall,Mickleham,Surrey,exact,JUNIPER HALL,II,0.00726984473957568
+match,right,Piercefield House,Chepstow,Monmouthshire,exact,"Ruins of Piercefield House, Left Hand or West Pavilion",II*,0.12908271200196406
+match,right,Leigh House,Bradford on Avon,Wiltshire,exact,LEIGH HOUSE,II,1.8387844057134073
+match,right,Tonbridge Castle,Tonbridge,Kent,exact,TONBRIDGE CASTLE,I,0.03185296839949598
+match,right,Laverstoke House,Laverstoke,Hampshire,exact,LAVERSTOKE HOUSE,II*,0.017476311715571766
+match,right,Banchory Lodge,Banchory,Aberdeenshire,exact,Banchory Lodge Hotel,B,0.01391679797192876
+match,wrong,Parsonage,Shobrooke,Devon,area,THE PARSONAGE,II,3.8140274154091443
+match,right,Funtington House,Chichester,Sussex,exact,FUNTINGTON HOUSE,II,0.013091787529725448
+match,right,Horringer House,Horringer,Suffolk,exact,HORRINGER HOUSE,II,0.008631002869536226
+match,wrong,Kempock,Gourock,Renfrewshire,area,23 KEMPOCK PLACE AND 2-8 (EVEN NOS) BATH STREET,B,1.493113258622972
+match,right,Cawder House,Glasgow (near),Lanarkshire,area,Cawder House,A,0.2548291885996415
+match,right,Marchwiel Hall,,Denbighshire,exact,Marchwiel Hall,II,0.009377230106607248
+match,right,Lleweni Hall,,Denbighshire,exact,"Lleweni Hall, including Stables to the NE",II*,0.0035163335294975603
+match,right,Carshalton House,Carshalton,Surrey,exact,CARSHALTON HOUSE,II*,0.054397136720027425
+match,right,Duncombe Park,Helmsley (near),Yorkshire,exact,DUNCOMBE PARK,I,0.00611049708720938
+match,right,Combermere Abbey,Whitchurch,Shropshire,exact,Combermere Abbey,I,0.0037066672424540246
+match,right,Bilton Grange,Rugby,Warwickshire,exact,BILTON GRANGE SCHOOL AND ATTACHED CHAPEL AND TERRACE,II*,0.11338502424585781
+match,right,Kings Weston House,Bristol,Gloucestershire,exact,KINGS WESTON HOUSE,I,0.0016446730986579348
+match,right,Battle Abbey,Battle,Sussex,exact,BATTLE ABBEY SCHOOL,I,0.09895196428818585
+match,right,Cluny Castle,Cluny,Aberdeenshire,exact,Cluny Castle,A,0.01771856480208802
+match,right,Birtles Hall,Over Alderley,Cheshire,exact,Birtles Hall,II,0.001809973229007677
+match,right,Thirlestaine House,Cheltenham,Gloucestershire,exact,THIRLESTAINE HOUSE (CHELTENHAM COLLEGE) WITH ATTACHED RAILINGS AND 2 LAMP POSTS,I,0.005244118320785519
+match,right,Lude House,Blair Atholl,Perthshire,exact,Lude House,B,0.01593009934944862
+match,right,Ashcott House,Ashcott,Somerset,exact,ASHCOTT HOUSE,II,0.005873393277365957
+match,right,Hampton Court Palace,,Surrey,exact,HAMPTON COURT PALACE,I,0.038240835642882214
+match,right,Harefield House,,Middlesex,exact,HAREFIELD HOUSE,II,0.005391222224312732
+match,right,Downton Hall,Aston (near),Herefordshire,exact,Downton Hall and attached balustrade,II*,0.0032166821833781983
+match,right,Peckforton Castle,Peckforton,Cheshire,exact,PECKFORTON CASTLE,I,0.024100164413577388
+match,right,Carleton Hall,Holmrook,Cumberland,exact,"CARLETON HALL, OUTBUILDINGS AND STABLE COTTAGE",II,0.01168344316303625
+match,wrong,Tatton Park,,Cheshire,exact,TATTON OLD HALL,II*,0.722919681720323
+match,right,Ryston Hall,Ryston,Norfolk,exact,RYSTON HALL,II*,0.006116497928512403
+match,right,Storrs Hall,Bowness,Westmorland,exact,STORRS HALL,II*,0.21224552777326555
+match,right,Bordean House,Winchester,Hampshire,exact,BORDEAN HOUSE,II,0.006106923338194237
+match,right,Cockfield Hall,Yoxford,Suffolk,area,COCKFIELD HALL,I,0.06215636075096965
+non-match,right,Basing Park,,Hampshire,exact,,,
+non-match,right,Ardmarnoch House,Melldalloch,Argyll,exact,,,
+non-match,right,Farleigh Priory,Maidstone,Kent,street,,,
+non-match,right,Brickhill House,Bedford,Bedfordshire,area,,,
+non-match,right,Ilford Lodge,Ilford,Essex,street,,,
+non-match,right,Bentley Hall,Stafford,Staffordshire,exact,,,
+non-match,right,Knoll Lodge,Hanley Castle,Worcestershire,area,,,
+non-match,right,The Rectory,,Northumberland,area,,,
+non-match,right,Rectory House,Chelsfield,Kent,exact,,,
+non-match,right,Cromhall,,Gloucestershire,area,,,
+non-match,right,Liscard Hall,Liverpool,Lancashire,exact,,,
+non-match,right,Richmond Lodge,Liverpool,Lancashire,exact,,,
+non-match,right,Maze Hill House,St Leonards-on-Sea,Sussex,street,,,
+non-match,right,Alstone Lawn,Cheltenham,Gloucestershire,area,,,
+non-match,right,Wreay Hall Mansion,Petterill Crooks,Cumberland,exact,,,
+non-match,right,Downham Hall,Brandon,Suffolk,area,,,
+non-match,missed,Harmony Hall,Melrose,Roxburghshire,exact,,,
+non-match,right,Enham House,Andover,Hampshire,street,,,
+non-match,right,Fairlight Down Cottage,Hastings (near),Sussex,street,,,
+non-match,right,Stonewall,Chiddingstone,Kent,exact,,,
+non-match,right,Nassau House,Oxton,Cheshire,street,,,
+non-match,right,Springbank,Port Glasgow,Renfrewshire,area,,,
+non-match,right,Milford Villa,Lymington,Hampshire,street,,,
+non-match,right,The Rocks,Uckfield,Sussex,exact,,,
+non-match,right,Greville Villa,Cheltenham,Gloucestershire,street,,,
+non-match,right,Gothic Villa,Tunbridge Wells,Kent,area,,,
+non-match,right,Baldovan House,Dundee,Forfarshire,area,,,
+non-match,right,Teddesley Hall,Penkridge,Staffordshire,exact,,,
+non-match,right,Balentore Castle,Glamis,Forfarshire,exact,,,
+non-match,right,Calder Park House,Glasgow,Lanarkshire,street,,,
+non-match,right,Cottage,Edinburgh,Midlothian (Edinburgh),area,,,
+non-match,right,Rothersyke House,Egremont,Cumberland,exact,,,
+non-match,right,Marton Parsonage,Merton,Devon,area,,,
+non-match,right,Scruton Hall,,Yorkshire,area,,,
+non-match,right,Mansion House,Puncknowle,Dorset,area,,,
+non-match,missed,Charborough House,,Dorset,exact,,,
+non-match,right,Clothall Rectory,Hitchin,Hertfordshire,area,,,
+non-match,right,Hornby Hall,Melling,Lancashire,street,,,
+non-match,right,Rosemount,,Ayrshire,area,,,
+non-match,right,Tilwhilly,Banchory,Aberdeenshire,area,,,
+non-match,right,Longwood House,Winchester (near),Hampshire,exact,,,
+non-match,right,Stewarthall Farm,Rothesay,Bute,area,,,
+non-match,right,Heath Lodge,Iver,Buckinghamshire,exact,,,
+non-match,right,Chippenham Park,Newmarket,Cambridgeshire,exact,,,
+non-match,right,Bodannerch,Rhyl,Flintshire,exact,,,
+non-match,right,Ovenden House,Sevenoaks,Kent,street,,,
+non-match,right,Hillowton House,Castle Douglas,Kirkcudbrightshire,street,,,
+non-match,right,Creswell Hall,Stafford,Staffordshire,area,,,
+non-match,right,Wavertree,Liverpool,Lancashire,area,,,
+non-match,right,Champneys,Tring,Hertfordshire,exact,,,

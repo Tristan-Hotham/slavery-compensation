@@ -1,0 +1,120 @@
+<!-- wp:paragraph -->
+<p><em>When Britain abolished slavery in its colonies in the 1830s, it paid £20 million in compensation. The money went to the slave-owners. The people they had enslaved received nothing. I mapped where in Britain the owners and claimants lived, using {{q1.gb|int}} addresses from the Legacies of British Slavery database at UCL.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://maps.tristanhotham.com/slavery-compensation/">Explore the interactive version</a></div>
+<!-- /wp:button -->
+<!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://doi.org/10.5281/zenodo.24113858">Read the paper</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:paragraph -->
+<p>The Slavery Abolition Act of 1833 took effect on 1 August 1834. It did not set people free that day. Most were made to keep working for their former owners, unpaid, as "apprentices", until 1838. Parliament also voted £20 million, about 40% of government spending in 1833, to compensate the owners for the loss of what the law called their property. As the History of Parliament puts it, "the formerly enslaved population received no compensation."</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The records of the commission that paid the money list who owned enslaved people at abolition and who claimed. For years, historians at University College London have traced those people into British life: their families, businesses, houses and addresses. The result is the Legacies of British Slavery database, and one of its tools is a map of the addresses. The team are careful about what it is: "This map is a search tool and a general guide. More work is needed to produce data for statistical analysis." So I treat it as a map of a database, not a census. Only the addresses they have located are here, about {{flow.lbs_table_located_pc|f0}}% of those in their county table, and an address is somewhere a person lived at some point, not necessarily in 1834. I never use the names.</p>
+<!-- /wp:paragraph -->
+
+{{IMG|b_map.png|Map of Great Britain with addresses as small dots, thickest in London, and counties shaded darkest in Middlesex and the south and west of England|Each dot is a located address linked to slave-ownership or the compensation. Counties are shaded by addresses per 10,000 people in 1831; Scotland's counties are circles.}}
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">London, then the ports and the spa towns</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Of the {{q1.gb|int}} addresses in Great Britain, {{q1.london|int}} are in London: {{q1.london_pc|f0}}%. Middlesex alone, where most of London stood, has {{q1.middlesex_pc|f0}}% of the addresses and had {{q1.middlesex_pop_pc|f0}}% of the people in 1831. After London come Edinburgh ({{town.Edinburgh|int}}), Bristol ({{town.Bristol|int}}), Liverpool ({{town.Liverpool|int}}) and Bath ({{town.Bath|int}}), then Glasgow, Brighton and Cheltenham. It is a list of capitals, Atlantic ports and resort towns.</p>
+<!-- /wp:paragraph -->
+
+{{IMG|b_towns.png|Bar chart of addresses by town: London {{town.London|int}}, Edinburgh {{town.Edinburgh|int}}, Bristol {{town.Bristol|int}}, Liverpool {{town.Liverpool|int}}, Bath {{town.Bath|int}}, and smaller numbers for Glasgow, Brighton and Cheltenham|Located addresses by town, Great Britain. The scale is logarithmic.}}
+
+{{IMG|b_shares.png|Paired bars: Middlesex has {{q1.middlesex_pc|f0}}% of the addresses and {{q1.middlesex_pop_pc|f0}}% of the people; next to it a Lorenz curve bowed well below the line of equality|Shares of addresses and of the 1831 population, and how unevenly the addresses are spread across counties.}}
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Per head</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Across Great Britain there are {{q1.gb_rate10k|f1}} located addresses for every 10,000 people in 1831. Among counties with at least 10,000 people, Middlesex has {{c.Middlesex.rate|f1}}, Midlothian, which is Edinburgh, {{c.Midlothian.rate|f1}} and Moray {{c.Moray.rate|f1}}, then Gloucestershire, with Bristol and Cheltenham, and Sussex, Somerset and Kent. Scotland as a whole ({{q1.scotland_rate10k|f1}}) matches England ({{q1.england_rate10k|f1}}), which fits a lot of recent work on Scotland's part in Caribbean slavery. Wales is far lower ({{q1.wales_rate10k|f1}}). The big industrial counties are low too: Lancashire, with Liverpool in it, has {{c.Lancashire.rate|f1}}, because so many other people lived there.</p>
+<!-- /wp:paragraph -->
+
+{{IMG|b_counties.png|Bar chart of the 24 counties with the most addresses per 10,000 people, Middlesex first at {{c.Middlesex.rate|f1}}, many Scottish counties among them|Located addresses per 10,000 people in 1831, by historic county.}}
+
+<!-- wp:pullquote -->
+<figure class="wp-block-pullquote"><blockquote><p>The records were made to value property and pay its owners. A map of their addresses shows where one side of that relationship lived. It does not measure the harm done.</p></blockquote></figure>
+<!-- /wp:pullquote -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">A pull towards London</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Before running anything I wrote down one test: are there more addresses per head in counties close to the four great West India ports of the time, London, Bristol, Liverpool and Glasgow? There are. Each doubling of the distance from the nearest port goes with {{h2.double_pc|f0}}% fewer addresses per head (the 95% range is {{h2.double_lo_pc|f0}} to {{h2.double_hi_pc|f0}}%). But the details matter. Distance to London on its own fits better than distance to the nearest port. The pattern loses its certainty when the South-East is left out. And it is carried by town addresses: named country houses show no such pattern, and neither do today's grandest listed houses, which I used as a rough stand-in for old landed wealth. So this is mostly a pull towards London, not a simple map of the trade.</p>
+<!-- /wp:paragraph -->
+
+{{IMG|b_distance.png|Scatter of counties: addresses per head fall with distance from the nearest port, with Middlesex at the top left|Each dot is a county, sized by its 1831 population.}}
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Town houses and country seats</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>In London, {{q3.London.street address|f0}}% of the addresses are a number in a square, a street or a terrace. Outside London only {{q3.outside_london.street address|f0}}% are. Another {{q3.outside_london.named house|f0}}% are named houses, the Halls, Parks and Castles, and {{q3.outside_london.settlement only|f0}}% name only a town or village.</p>
+<!-- /wp:paragraph -->
+
+{{IMG|b_forms.png|Stacked bars: London is {{q3.London.street address|f0}}% street addresses; elsewhere about a third street addresses, a quarter or more named houses, and the rest town or village only|What each address record names, by area.}}
+
+<!-- wp:paragraph -->
+<p>I took the {{q4.cand|int}} named houses outside London and the towns and looked for each one on today's national lists of listed buildings, by name and place. {{q4.matched|int}} matched. I then read 100 cases by hand to see how often the matching was right, and the best estimate is that about {{q4.corrected_pc|f0}}% of these country houses are listed buildings today. {{q4.top_grade|int}} of the matches are in the top grade. The others were demolished, were never listed, or could not be matched by name. A match is a starting point for a local historian, not a verdict on a building.</p>
+<!-- /wp:paragraph -->
+
+{{IMG|b_listed.png|Bars showing about half of the country houses matched to a listed building in England, Scotland and Wales, and the matched houses by grade|Country houses matched to listed buildings, by nation and by grade.}}
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">How I did this</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The addresses come from the file behind the Legacies of British Slavery map: each address's place, town and county and how many people in the database are linked to it. I counted people and never used their names; on the interactive map each dot links to a record at UCL for one of the people linked to it. I matched the counties to those of the 1831 census and divided by the census population. I sorted each address into a street address, a named house or a town or village only from its text. For listed buildings I used the national lists for England, Scotland and Wales. The analysis was pre-specified in a written plan before I computed any results, and the paper reports every check, including the ones that weakened the result.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>What this cannot tell you: how much money anyone received, because the address file has no amounts; where people lived in any one year; or anything about the people who were enslaved, who appear in these records mostly as numbers and valuations. The located share of addresses varies from county to county, though not in a way that lines up with the results. And about a third of the addresses are placed only at a town, village or parish.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://maps.tristanhotham.com/slavery-compensation/">Explore the interactive version</a></div>
+<!-- /wp:button -->
+<!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://doi.org/10.5281/zenodo.24113858">Read the paper</a></div>
+<!-- /wp:button -->
+<!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://github.com/Tristan-Hotham/slavery-compensation">Data and code</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Notes and sources</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Legacies of British Slavery database, Centre for the Study of the Legacies of British Slavery, UCL (ucl.ac.uk/lbs), map address data retrieved 2026. Only counts and unnamed points are reproduced.</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>Population: Census of Great Britain, 1851, Population Tables I (county totals for 1831). Listed buildings: Historic England, Historic Environment Scotland and Cadw (Open Government Licence), via my earlier study The Listed Kingdom.</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>Context: J. Baker, "1833 Slavery Abolition Act", History of Parliament (2024); N. Draper, The Price of Emancipation (2010); C. Hall and others, Legacies of British Slave-ownership (2014); M. Dresser and A. Hann (eds), Slavery and the British Country House (2013); S. Mullen, The Glasgow Sugar Aristocracy (2022).</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>County outlines rebuilt from the 1851 parishes in Caprettini and Voth's replication data (CC BY 4.0). Base map: OpenFreeMap, OpenStreetMap contributors (ODbL).</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>I wrote the text, with drafting and editing assistance from Claude (Anthropic), which also helped prepare the analysis code. I reviewed and checked all text and results.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->

@@ -1,0 +1,63 @@
+[
+{
+"out": "qa/desktop.png",
+"w": 1280,
+"h": 800
+},
+{
+"out": "qa/desktop_search.png",
+"w": 1280,
+"h": 800,
+"eval": "(async()=>{document.querySelector('#q').value='Bath';document.querySelector('#q').dispatchEvent(new Event('input'));document.querySelector('#sug li').click()})()"
+},
+{
+"out": "qa/desktop_layers.png",
+"w": 1280,
+"h": 800,
+"eval": "document.querySelector('.chip[data-m=one]').click();document.getElementById('lyrBtn').click()"
+},
+{
+"out": "qa/desktop_click.png",
+"w": 1280,
+"h": 800,
+"eval": "window.__map.jumpTo({center:[-2.36,51.385],zoom:13});setTimeout(()=>{const f=window.__map.queryRenderedFeatures({layers:['dots']})[0];const p=window.__map.project(f.geometry.coordinates);window.__map.fire('click',{lngLat:f.geometry.coordinates,point:p})},1500)"
+},
+{
+"out": "qa/desktop_county.png",
+"w": 1280,
+"h": 800,
+"eval": "window.__map.jumpTo({center:[-2.5,51.85],zoom:7});setTimeout(()=>window.__map.fire('click',{lngLat:{lng:-2.2,lat:51.75},point:window.__map.project([-2.2,51.75])}),1500)"
+},
+{
+"out": "qa/phone.png",
+"w": 390,
+"h": 800,
+"dpr": 2
+},
+{
+"out": "qa/phone_full.png",
+"w": 390,
+"h": 800,
+"dpr": 1,
+"full": true
+},
+{
+"out": "qa/desktop_full.png",
+"w": 1280,
+"h": 800,
+"full": true
+},
+{
+"out": "qa/phone_zoom.png",
+"w": 390,
+"h": 800,
+"dpr": 2,
+"eval": "window.__map.jumpTo({center:[-0.15,51.515],zoom:15})"
+},
+{
+"out": "qa/desktop_fs.png",
+"w": 1280,
+"h": 800,
+"eval": "document.querySelector('.mfs-btn').click()"
+}
+]

@@ -1,0 +1,188 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Where slavery money came home | Slave-owners' addresses in Britain</title>
+<meta name="description" content="The British addresses of people recorded as slave-owners and claimants when slavery was abolished in the 1830s, from the Legacies of British Slavery database: where they cluster, per head by county, and the country houses that still stand.">
+<meta property="og:title" content="Where slavery money came home">
+<meta property="og:description" content="{{q1.gb|int}} addresses in Great Britain linked to slave-owners at abolition: {{q1.london_pc|f0}}% of them in London. The compensation went to the owners; the enslaved received nothing.">
+<meta property="og:image" content="https://maps.tristanhotham.com/slavery-compensation/header.png">
+<meta property="og:url" content="https://maps.tristanhotham.com/slavery-compensation/">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,800;9..144,900&family=IBM+Plex+Mono:wght@400;500&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/maplibre-gl@4.7.1/dist/maplibre-gl.css">
+<style>
+:root{
+  --bg:#F7F0E1; --panel:#EFE4CC; --fg:#231C16; --muted:#6A5F52; --rule:#E2D6BD; --card:#FBF6EA; --border:#D3C29A;
+  --hot:#9E2A2B; --cool:#24425E;
+  --display:"Fraunces",Georgia,"Times New Roman",serif;
+  --body:"Source Serif 4",Georgia,"Times New Roman",serif;
+  --mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#1A1612; --panel:#241E18; --fg:#EFE6D4; --muted:#ADA08B; --rule:#3A3128; --card:#211B15; --border:#4D4234;
+  --hot:#E08A7C; --cool:#8FB4DA; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#1A1612; --panel:#241E18; --fg:#EFE6D4; --muted:#ADA08B; --rule:#3A3128; --card:#211B15; --border:#4D4234;
+  --hot:#E08A7C; --cool:#8FB4DA; color-scheme:dark}
+*,*::before,*::after{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--fg);font:400 18px/1.62 var(--body);
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));overflow-x:hidden}
+.wrap{max-width:720px;margin:0 auto;padding-block:28px 64px}
+a{color:inherit;text-decoration-color:var(--hot);text-underline-offset:3px}
+.kicker{font:500 12px/1 var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--muted);display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.kicker b{background:var(--hot);color:#fff;padding:5px 8px;font-weight:500}
+h2{font:800 32px/1.06 var(--display);letter-spacing:-.01em;margin:54px 0 10px;text-wrap:balance}
+h2 .n{font:500 13px/1 var(--mono);color:var(--hot);display:block;letter-spacing:.1em;margin-bottom:10px}
+p{margin:0 0 16px}
+.byline{font:400 13px/1.4 var(--mono);color:var(--muted);margin-top:14px}
+.src{font:400 12px/1.45 var(--mono);color:var(--muted);margin-top:8px}
+.note{border-left:4px solid var(--hot);background:var(--card);padding:12px 16px;font-size:16px;margin:20px 0}
+.note b{font-weight:600}
+blockquote.caveat{margin:18px 0;padding:10px 16px;border-left:4px solid var(--border);font-style:italic;color:var(--muted)}
+ul.plain{padding-left:20px} ul.plain li{margin:4px 0}
+details{border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);padding:10px 0;margin:18px 0;font-size:16px}
+summary{font:500 13px/1.4 var(--mono);letter-spacing:.06em;text-transform:uppercase;cursor:pointer;color:var(--muted)}
+.cta{display:flex;flex-wrap:wrap;gap:10px;margin:30px 0 0}
+.cta a{font:500 13px/1 var(--mono);text-decoration:none;border:1px solid var(--fg);padding:11px 14px;border-radius:3px}
+.cta a.p{background:var(--hot);border-color:var(--hot);color:#fff}
+footer{border-top:6px double var(--fg);margin-top:56px;padding-top:16px;font:400 13px/1.55 var(--mono);color:var(--muted)}
+footer p{margin:0 0 10px}
+.theme{font:500 12px/1 var(--mono);background:var(--card);color:var(--fg);border:1px solid var(--border);border-radius:3px;padding:4px 8px;cursor:pointer;min-height:28px}
+.figure{margin:22px 0}
+.figure img{width:100%;height:auto;display:block;border:1px solid var(--border);background:#F7F0E1}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px;margin:22px 0}
+.stat b{display:block;font:900 38px/1 var(--display);color:var(--hot)}
+.stat span{font:400 13px/1.35 var(--mono);color:var(--muted)}
+table.t{width:100%;border-collapse:collapse;font:400 13.5px/1.4 var(--mono);margin:12px 0 4px}
+table.t th{text-align:left;font-weight:500;border-bottom:2px solid var(--fg);padding:5px 6px 5px 0}
+table.t td{border-bottom:1px solid var(--rule);padding:5px 6px 5px 0;vertical-align:top}
+table.t td.r,table.t th.r{text-align:right}
+.tscroll{overflow-x:auto}
+/* map */
+.topbar{height:40px;display:flex;align-items:center;gap:14px;margin:0 calc(-1 * max(16px,env(safe-area-inset-left,0px)));padding:0 max(14px,env(safe-area-inset-left,0px));border-bottom:3px double var(--fg);background:var(--bg);overflow:hidden;white-space:nowrap}
+.tb-name{font:800 18px/1 var(--display);color:var(--hot);text-decoration:none}
+.tb-k{font:500 11px/1 var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+.tb-links{margin-left:auto;display:flex;gap:16px;align-items:center;font:500 12px/1 var(--mono)}
+.tb-links a{text-decoration:none}.tb-links a:hover{text-decoration:underline}
+.mapband{width:100vw;margin-left:calc(50% - 50vw)}
+.pane{position:relative;height:calc(100vh - 43px);height:calc(100svh - 43px);min-height:480px;border-bottom:1px solid #BCA676;background:#EDE7DA;overflow:hidden}
+#map{position:absolute;inset:0}
+.maplibregl-ctrl-top-right{top:46px}
+.maplibregl-popup{z-index:7}
+.cartouche{position:absolute;left:14px;top:14px;z-index:5;max-width:min(360px,calc(100% - 28px));background:rgba(251,246,234,.96);color:#231C16;border:2px solid #231C16;padding:10px 14px 10px;box-shadow:0 3px 14px rgba(60,40,10,.2)}
+.cartouche h1{font:900 clamp(22px,2.3vw,29px)/1.02 var(--display);letter-spacing:-.015em;margin:6px 0 0;color:#231C16}
+.cartouche .dek{font-size:13.5px;line-height:1.38;margin:6px 0 0}
+.cartouche .dek b{font-weight:600}
+.cartouche .byline{font-size:11px;color:#6A5F52;margin-top:6px}
+.cartouche .kicker{color:#6A5F52}
+.ct-fold{position:absolute;right:6px;top:5px;width:26px;height:26px;border:0;background:none;color:#9E2A2B;font:600 16px/1 var(--mono);cursor:pointer;padding:0}
+.ct-toggle{display:none;font:800 16px/1 var(--display);color:#9E2A2B;background:none;border:0;padding:2px 0;cursor:pointer;min-height:30px}
+.cartouche.folded .ct-body,.cartouche.folded .ct-fold{display:none}.cartouche.folded .ct-toggle{display:block}.cartouche.folded{padding:4px 11px}
+.ov-top{position:absolute;z-index:5;right:54px;top:10px;display:flex;flex-direction:column;gap:6px;align-items:flex-end;pointer-events:none;max-width:calc(100% - 460px)}
+.ov-top>*{pointer-events:auto}
+.srch{position:relative;width:min(320px,100%)}
+.srch input{width:100%;font:400 15px/1 var(--mono);background:rgba(251,246,234,.97);color:#231C16;border:1px solid #9C8656;border-radius:3px;padding:9px 10px;min-height:40px;box-shadow:0 1px 4px rgba(60,40,10,.18)}
+.sug{position:absolute;left:0;right:0;top:100%;margin:2px 0 0;padding:0;list-style:none;background:#FBF6EA;border:1px solid #9C8656;max-height:300px;overflow:auto;display:none;box-shadow:0 3px 10px rgba(60,40,10,.2);z-index:12;color:#231C16;font:400 14px/1.3 var(--mono)}
+.sug li{padding:8px 10px;cursor:pointer;border-bottom:1px solid #E7D9B6}
+.sug li span{color:#7A6A52;font-size:12px}
+.sug li[aria-selected="true"],.sug li:hover{background:#EFE1BC}
+.chips{display:flex;gap:6px;flex-wrap:wrap;justify-content:flex-end}
+.chip{font:500 12px/1 var(--mono);background:rgba(251,246,234,.95);color:#231C16;border:1px solid #9C8656;border-radius:999px;padding:8px 11px;cursor:pointer;min-height:34px;white-space:nowrap}
+.chip[aria-pressed="true"]{background:#9E2A2B;color:#fff;border-color:#231C16}
+.chip.lyr{background:#231C16;color:#F7F0E1;border-color:#231C16}
+.lp{position:absolute;right:54px;top:104px;z-index:9;background:rgba(251,246,234,.98);border:1px solid #9C8656;border-radius:4px;padding:10px 12px 8px;font:400 13px/1.3 var(--mono);color:#231C16;box-shadow:0 3px 12px rgba(60,40,10,.25);display:none;min-width:250px;max-width:330px;max-height:calc(100% - 200px);overflow:auto}
+.lp.open{display:block}
+.lp h4{margin:0 0 6px;font:500 11px/1 var(--mono);letter-spacing:.1em;text-transform:uppercase;color:#7A6A52}
+.lp label{display:flex;gap:8px;align-items:center;padding:5px 0;cursor:pointer;min-height:30px}
+.lp input{accent-color:#9E2A2B;width:16px;height:16px;flex:none}
+.lp p{margin:6px 0 0;font-size:12px;color:#6A5F52}
+.keys{position:absolute;left:12px;bottom:36px;z-index:4;background:rgba(251,246,234,.96);border:1px solid #9C8656;border-radius:3px;padding:8px 10px;font:400 11.5px/1.25 var(--mono);color:#231C16;max-width:270px;box-shadow:0 2px 8px rgba(60,40,10,.18)}
+.keys b{display:block;font:800 13px/1.1 var(--display);color:#9E2A2B;margin:4px 0 4px}
+.keys .row{display:flex;align-items:center;gap:6px;margin:2px 0}
+.keys .sw{display:inline-block;width:16px;height:11px;border:1px solid rgba(35,28,22,.4);flex:none}
+.keys .dot{display:inline-block;width:10px;height:10px;border-radius:50%;border:1.5px solid #fff;box-shadow:0 0 0 1px rgba(35,28,22,.4);flex:none}
+.maplibregl-popup-content{background:#FBF6EA;color:#231C16;font:400 13px/1.45 var(--mono);border:1px solid #9C8656;border-radius:4px;padding:10px 12px;box-shadow:0 3px 12px rgba(60,40,10,.25);max-width:310px}
+.maplibregl-popup-content b.t{display:block;font:800 18px/1.15 var(--display);color:#9E2A2B;margin-bottom:3px;padding-right:14px}
+.maplibregl-popup-content table{border-collapse:collapse;margin:5px 0}
+.maplibregl-popup-content td{padding:1px 8px 1px 0;vertical-align:top}
+.maplibregl-popup-content td:first-child{color:#7A6A52}
+.maplibregl-popup-content .nt{color:#7A6A52;font-size:11.5px;margin:5px 0 0}
+.maplibregl-popup-content a{color:#9E2A2B}
+.maplibregl-ctrl-attrib{font:400 11px/1.3 var(--mono)!important;background:rgba(251,246,234,.85)!important}
+.nojs{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;font:400 14px var(--mono);color:#6A5F52;padding:20px;text-align:center}
+@media (max-width:900px){.ov-top{left:10px;right:54px;max-width:none;align-items:flex-start}.chips{justify-content:flex-start}.lp{left:10px;right:auto;top:100px}.cartouche{top:100px}}
+@media (max-width:600px){
+  .tb-k,.tb-links a.x{display:none}.topbar{gap:10px}.tb-name{font-size:15px}.tb-links{gap:10px}
+  .lp{left:8px;right:8px;min-width:0;max-width:none}
+  .ov-top{left:8px;top:8px}
+  .cartouche{left:8px;top:100px;max-width:calc(100% - 16px);padding:10px 12px}.cartouche h1{font-size:23px}
+  .ct-toggle{display:block}.ct-fold{display:none}
+  .keys{left:8px;bottom:26px;max-width:calc(100% - 70px);font-size:10.5px;padding:6px 8px}
+  .chip{padding:8px 9px;font-size:11.5px}
+}
+</style></head>
+<body>
+<div class="topbar">
+  <a class="tb-name" href="#mapWrap">Where slavery money came home</a>
+  <span class="tb-k">Data study · 2026</span>
+  <nav class="tb-links"><a href="#essay">About</a><button class="theme" id="theme" aria-label="Toggle dark mode">◐</button><a href="https://doi.org/10.5281/zenodo.24113858">Paper</a><a class="x" href="{{REPO}}">Data and code</a></nav>
+</div>
+<div class="mapband">
+  <div class="pane" id="mapWrap" data-fullscreen-map role="application" aria-label="Map of the British addresses of slave-owners compensated in the 1830s, with counties shaded by addresses per 10,000 people in 1831">
+    <div id="map"></div>
+    <div class="nojs" id="nojs">Loading the map. It needs JavaScript and WebGL.</div>
+    <div class="cartouche" id="cartouche">
+      <button class="ct-toggle" id="ctToggle" aria-expanded="true">Where slavery money came home <span aria-hidden="true">▾</span></button>
+      <button class="ct-fold" id="ctFold" title="Fold the title" aria-label="Fold the title">▴</button>
+      <div class="ct-body">
+        <div class="kicker"><b>Data study</b><span>2026</span></div>
+        <h1>Where slavery money came home</h1>
+        <p class="dek">{{q1.gb|int}} addresses in Great Britain linked to people recorded as slave-owners when slavery was abolished in the 1830s (Legacies of British Slavery, UCL). Parliament paid £20 million to the owners. <b>The enslaved people received nothing.</b> Tap a dot or a county; search a town.</p>
+        <div class="byline">{{BYLINE}}</div>
+      </div>
+    </div>
+    <div class="ov-top">
+      <div class="srch"><input type="search" id="q" placeholder="Find a town or county" aria-label="Find a town or county" autocomplete="off"><ul class="sug" id="sug" role="listbox"></ul></div>
+      <div class="chips"><button class="chip" data-m="form" aria-pressed="true">Dots by address type</button><button class="chip" data-m="one" aria-pressed="false">Plain dots</button><button class="chip lyr" id="lyrBtn" aria-expanded="false" aria-controls="lp">Layers</button></div>
+    </div>
+    <div class="lp" id="lp" role="dialog" aria-label="Map layers">
+      <h4>Layers</h4>
+      <label><input type="checkbox" id="lyD" checked> Addresses (dots)</label>
+      <label><input type="checkbox" id="lyC" checked> Counties per 10,000 people (1831)</label>
+      <label><input type="checkbox" id="lyL" checked> Base map place names</label>
+      <p>Mapped: the {{flow.gb|int}} geocoded addresses in Great Britain, plus {{flow.ireland|int}} in Ireland and {{flow.channel|int}} in the Channel Islands (grey). England and Wales counties are approximate outlines rebuilt from 1851 parishes; Scotland's counties are circles. About {{flow.lbs_table_located_pc|f0}}% of the addresses in the LBS county table have been located; the rest are not on the map.</p>
+    </div>
+    <div class="keys" id="keys">
+      <b>Addresses per 10,000 people, 1831</b>
+      <div class="row"><span class="sw" style="background:#F3EBDD"></span>under 0.5 <span class="sw" style="background:#E6D2B5;margin-left:6px"></span>0.5 to 1</div>
+      <div class="row"><span class="sw" style="background:#D2AE83"></span>1 to 2 <span class="sw" style="background:#B5835A;margin-left:6px"></span>2 to 3</div>
+      <div class="row"><span class="sw" style="background:#8C5634"></span>3 to 5 <span class="sw" style="background:#5C2E1B;margin-left:6px"></span>5 or more</div>
+      <div id="keyForm"><b>Address type</b>
+        <div class="row"><span class="dot" style="background:#24425E"></span>street address</div>
+        <div class="row"><span class="dot" style="background:#B7712A"></span>named house</div>
+        <div class="row"><span class="dot" style="background:#8A8F96"></span>town or village only</div>
+        <div class="row ext"><span class="dot" style="background:#6E5596"></span>institution</div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="wrap" id="essay">
+%%ESSAY%%
+<footer>
+<p>Dr Tristan Hotham, Independent researcher. ORCID <a href="https://orcid.org/0000-0003-4931-9349">0000-0003-4931-9349</a>.</p>
+<p>Cite as: Hotham, T. (2026) Where slavery money came home: the British addresses of slave-owners compensated in the 1830s. Zenodo. <a href="https://doi.org/10.5281/zenodo.24113858">10.5281/zenodo.24113858</a></p>
+<p>Code: <a href="{{REPO}}">github.com/Tristan-Hotham/slavery-compensation</a> (MIT). Text and figures CC BY 4.0. Address data © Legacies of British Slavery, UCL Department of History: only counts and unnamed points are reproduced here.</p>
+<p>{{AI}}</p>
+</footer>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
+<script src="js/page.js?v={{VERSION}}"></script>
+{{FULLSCREEN}}
+<script src="https://maps.tristanhotham.com/assets/site-nav.js" defer></script>
+</body>
+</html>

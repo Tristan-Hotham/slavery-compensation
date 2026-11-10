@@ -1,0 +1,1056 @@
+town,addresses,links,county,street_pc
+London,1158,1852,Middlesex,89.11917098445595
+Edinburgh,121,193,Midlothian (Edinburgh),85.12396694214877
+Bristol,106,297,Gloucestershire,74.52830188679245
+Liverpool,100,182,Lancashire,68.0
+Bath,66,159,Somerset,95.45454545454545
+Glasgow,32,118,Lanarkshire,78.125
+Brighton,26,59,Sussex,80.76923076923077
+Cheltenham,18,78,Gloucestershire,66.66666666666666
+Exeter,13,42,Devon,23.076923076923077
+Isle of Wight,11,12,Hampshire,18.181818181818183
+Tunbridge Wells,11,17,Kent,45.45454545454545
+Sevenoaks,11,14,Kent,27.27272727272727
+Inverness,10,22,Inverness-shire,50.0
+Ryde,10,14,Hampshire,30.0
+Southampton,8,30,Hampshire,37.5
+Elgin,8,14,Moray,37.5
+Aberdeen,7,28,Aberdeenshire,42.857142857142854
+Ayr,7,10,Ayrshire,57.14285714285714
+Winchester,6,12,Hampshire,16.666666666666664
+Tonbridge,6,7,Kent,50.0
+Stirling,6,8,Stirlingshire,66.66666666666666
+Gloucester,6,10,Gloucestershire,66.66666666666666
+Chichester,6,18,Sussex,50.0
+Nairn,6,7,Nairnshire,50.0
+Croydon,5,9,Surrey,40.0
+Worthing,5,9,Sussex,60.0
+Plymouth,5,9,Devon,40.0
+Bedford,5,8,Bedfordshire,40.0
+Penzance,5,8,Cornwall,60.0
+Reading,5,9,Berkshire,40.0
+Bognor,5,5,Sussex,0.0
+Exmouth,5,10,Devon,80.0
+Forres,5,10,Moray,20.0
+Dover,5,7,Kent,60.0
+Ipswich,4,8,Suffolk,0.0
+Kenton,4,5,Devon,0.0
+East Grinstead,4,4,Sussex,0.0
+Oxford,4,4,Oxfordshire,0.0
+South Shields,4,5,Durham,50.0
+Melrose,4,5,Roxburghshire,0.0
+Lancaster,4,20,Lancashire,50.0
+Iver,4,5,Buckinghamshire,25.0
+Leeds,4,6,Yorkshire,25.0
+Hove,4,4,Sussex,75.0
+Manchester,4,10,Lancashire,50.0
+Falkland,4,4,Fife,25.0
+Clevedon,4,6,Somerset,50.0
+Bathwick,4,5,Somerset,75.0
+Ardrossan,4,5,Ayrshire,75.0
+Nottingham,4,8,Nottinghamshire,75.0
+Cambridge,4,7,Cambridgeshire,0.0
+Richmond,4,4,Surrey,75.0
+Birmingham,4,4,Warwickshire,0.0
+Montrose,4,6,Forfarshire,0.0
+Campbeltown,4,8,Argyll,50.0
+Falkirk,4,6,Stirlingshire,25.0
+Topsham,3,7,Devon,0.0
+Barnstaple,3,5,Devon,33.33333333333333
+York,3,4,Yorkshire,33.33333333333333
+Andover,3,3,Hampshire,0.0
+Tewkesbury,3,3,Gloucestershire,0.0
+Paisley,3,5,Renfrewshire,33.33333333333333
+Newcastle-upon-Tyne,3,16,Northumberland,66.66666666666666
+Lewes,3,3,Sussex,0.0
+Hitchin,3,7,Hertfordshire,0.0
+Irvine,3,5,Ayrshire,66.66666666666666
+Chester,3,4,Cheshire,0.0
+Bromley,3,3,Kent,0.0
+Teignmouth,3,8,Devon,66.66666666666666
+Eastbourne,3,6,Sussex,33.33333333333333
+Doncaster,3,5,Yorkshire,0.0
+Devonport,3,3,Devon,66.66666666666666
+Halifax,3,4,Yorkshire,33.33333333333333
+Greenock,3,8,Renfrewshire,0.0
+Guildford,3,9,Surrey,0.0
+Farnham,3,4,Surrey,0.0
+Wokingham,3,4,Berkshire,0.0
+Cromarty,3,7,Ross & Cromarty,0.0
+Kirkby Lonsdale,3,5,Westmorland,33.33333333333333
+Canterbury,3,4,Kent,33.33333333333333
+Carmarthen,3,3,Carmarthenshire,100.0
+Ilfracombe,3,5,Devon,66.66666666666666
+Fettercairn,3,5,Aberdeenshire,0.0
+Hastings,3,6,Sussex,33.33333333333333
+Henley-on-Thames,3,3,Oxfordshire,0.0
+St Leonards-on-Sea,3,3,Sussex,33.33333333333333
+Stamford,3,4,Lincolnshire,33.33333333333333
+Blackburn,3,3,Lancashire,0.0
+Whitchurch,3,3,Buckinghamshire,33.33333333333333
+Whitby,3,3,Yorkshire,0.0
+Weston-super-Mare,3,8,Somerset,66.66666666666666
+Tormoham,3,4,Devon,33.33333333333333
+Whitehaven,3,7,Cumberland,0.0
+Wakefield,3,8,Yorkshire,0.0
+Walcot,3,5,Somerset,33.33333333333333
+Northampton,3,3,Northamptonshire,66.66666666666666
+Northallerton,3,3,Yorkshire,0.0
+Ramsgate,3,4,Kent,33.33333333333333
+Portpatrick,3,4,Wigtownshire,66.66666666666666
+St Andrews,3,3,Fife,33.33333333333333
+Port Glasgow,3,3,Renfrewshire,0.0
+Torquay,3,7,Devon,33.33333333333333
+Blair Atholl,2,2,Perthshire,0.0
+Bideford,2,4,Devon,50.0
+Tenby,2,2,Pembrokeshire,50.0
+Tiverton,2,5,Devon,50.0
+Thetford,2,2,Suffolk,0.0
+Thirsk,2,2,Yorkshire,0.0
+Thornbury,2,4,Gloucestershire,0.0
+Walsall,2,3,Staffordshire,50.0
+Woodford,2,2,Essex,0.0
+Blackheath,2,5,Kent,50.0
+Beccles,2,2,Suffolk,0.0
+Battle,2,3,Sussex,0.0
+Ashford,2,2,Kent,50.0
+West Kilbride,2,4,Ayrshire,50.0
+Welwyn,2,3,Hertfordshire,0.0
+Newtonmore,2,2,Inverness-shire,0.0
+Newport,2,3,Hampshire,0.0
+Nuffield,2,2,Oxfordshire,0.0
+Pebworth,2,2,Worcestershire,0.0
+Pembroke,2,4,Pembrokeshire,0.0
+Odiham,2,3,Hampshire,50.0
+Northwich,2,3,Cheshire,0.0
+Norwich,2,4,Norfolk,50.0
+Peebles,2,10,Peeblesshire,0.0
+Rothesay,2,2,Argyll,0.0
+Rugby,2,2,Warwickshire,50.0
+Rochdale,2,2,Lancashire,100.0
+Preston,2,7,Lancashire,50.0
+Portsmouth,2,1,Hampshire,50.0
+Plumstead,2,3,Kent,50.0
+Perth,2,2,Perthshire,100.0
+Salisbury,2,5,Wiltshire,0.0
+Rhyl,2,2,Flintshire,50.0
+Stoke Damerel,2,4,Devon,50.0
+Stonehouse,2,2,Devon,50.0
+Tamworth,2,2,Staffordshire,0.0
+Sidmouth,2,7,Devon,0.0
+South Mimms,2,2,Hertfordshire,0.0
+Stafford,2,2,Staffordshire,0.0
+Sheffield,2,2,Yorkshire,50.0
+Sedbergh,2,2,Cumberland,0.0
+Seaton,2,2,Devon,50.0
+Saxmundham,2,5,Suffolk,0.0
+Brechin,2,3,Forfarshire,0.0
+Bradford,2,1,Yorkshire,50.0
+Bradford on Avon,2,2,Wiltshire,0.0
+Bonnyrigg,2,2,Midlothian (Edinburgh),50.0
+Beverley,2,4,Yorkshire,0.0
+Berkhamsted,2,2,Hertfordshire,0.0
+Bedminster,2,3,Somerset,0.0
+Swansea,2,2,Glamorgan,50.0
+Surbiton,2,2,Surrey,100.0
+Sunderland,2,1,Durham,0.0
+Steeple Bumpstead,2,7,Essex,0.0
+Staines,2,2,Middlesex,0.0
+Wigan,2,2,Lancashire,0.0
+Wigtown,2,4,Wigtownshire,0.0
+Warwick,2,2,Warwickshire,0.0
+Warminster,2,2,Wiltshire,50.0
+Weymouth,2,10,Dorset,0.0
+Woolverstone,2,3,Suffolk,0.0
+Worcester,2,4,Worcestershire,0.0
+Wraxall,2,2,Somerset,0.0
+Thurso,2,4,Caithness,0.0
+Torrington,2,2,Devon,0.0
+Twickenham,2,14,Surrey,50.0
+Ulverston,2,3,Cumberland,50.0
+Uxbridge,2,2,Middlesex,0.0
+Waltham Abbey,2,3,Essex,0.0
+Macduff,2,1,Banffshire,100.0
+Linlithgow,2,4,Linlithgowshire (West Lothian),0.0
+Carshalton,2,4,Surrey,0.0
+Chelmsford,2,2,Essex,0.0
+Chepstow,2,4,Monmouthshire,50.0
+Cheshunt,2,2,Hertfordshire,0.0
+Liscard,2,2,Cheshire,100.0
+Nantwich,2,3,Cheshire,0.0
+Needham Market,2,2,Suffolk,0.0
+Monmouth,2,2,Monmouthshire,50.0
+Hornchurch,2,2,Essex,0.0
+Chislehurst,2,2,Kent,50.0
+Chiddingstone,2,2,Kent,0.0
+Kilmarnock,2,2,Ayrshire,50.0
+Kirkhill,2,3,Inverness-shire,0.0
+Knowsley,2,2,Lancashire,0.0
+Carlisle,2,3,Cumberland,0.0
+Chalfont St Giles,2,4,Buckinghamshire,0.0
+Ledbury,2,2,Herefordshire,0.0
+Lichfield,2,2,Staffordshire,0.0
+Cardiff,2,2,Glamorgan,50.0
+Lee,2,3,Kent,50.0
+Kintyre,2,4,Argyll,0.0
+Kingston-upon-Thames,2,2,Surrey,0.0
+Bury St Edmunds,2,3,Suffolk,0.0
+Burntisland,2,2,Fife,0.0
+Melling,2,3,Lancashire,0.0
+Milverton,2,4,Somerset,0.0
+Milnthorpe,2,2,Westmorland,50.0
+Morpeth,2,3,Northumberland,0.0
+Much Hadham,2,7,Hertfordshire,50.0
+Margate,2,3,Kent,50.0
+Lymington,2,17,Hampshire,0.0
+Maidstone,2,4,Kent,0.0
+Long Ashton,2,3,Somerset,50.0
+Great Missenden,2,2,Buckinghamshire,0.0
+Haddington,2,3,Haddingtonshire (East Lothian),50.0
+Gravesend,2,4,Kent,0.0
+Heavitree,2,3,Devon,0.0
+Hatfield,2,2,Hertfordshire,50.0
+Handsworth,2,2,Staffordshire,100.0
+Hawes,2,5,Yorkshire,0.0
+Egremont,2,2,Cumberland,0.0
+Esher,2,4,Surrey,50.0
+Everton,2,5,Lancashire,50.0
+Fetcham,2,5,Surrey,0.0
+Folkestone,2,2,Kent,100.0
+Flushing,2,3,Cornwall,0.0
+Hawkhurst,2,4,Kent,0.0
+Hertford,2,2,Hertfordshire,0.0
+Harefield,2,1,Middlesex,0.0
+Dundee,2,4,Forfarshire,0.0
+Edmonton,2,3,Middlesex,50.0
+Earlston,2,3,Berwickshire,0.0
+Dorchester,2,2,Dorset,0.0
+East Budleigh,2,4,Devon,100.0
+Egham,2,5,Surrey,0.0
+Crawley,2,2,Hampshire,0.0
+Dingwall,2,5,Ross & Cromarty,0.0
+Derby,2,3,Derbyshire,0.0
+Dorking,2,5,Surrey,0.0
+Dawlish,2,6,Devon,0.0
+Banbury,2,4,Oxfordshire,0.0
+Banchory,2,2,Aberdeenshire,0.0
+Deddington,2,3,Oxfordshire,50.0
+Dent,2,4,Cumberland,0.0
+Aylesbury,2,2,Buckinghamshire,0.0
+Auldearn,2,2,Nairnshire,0.0
+Alton,2,2,Hampshire,0.0
+Wirral,2,2,Cheshire,50.0
+Airdrie,2,2,Lanarkshire,50.0
+Aldeburgh,2,3,Suffolk,50.0
+Aberlour,2,2,Banffshire,0.0
+Windsor,2,3,Berkshire,50.0
+Altrincham,1,1,Cheshire,0.0
+Wivenhoe,1,1,Essex,0.0
+Aston,1,1,Herefordshire,0.0
+near Woolhampton,1,2,Berkshire,0.0
+Abbeycwmhir,1,1,Radnorshire,0.0
+Abbots Langley,1,1,Hertfordshire,0.0
+Abbots Leigh,1,1,Somerset,100.0
+"Abbots Leigh, near Bristol",1,2,Somerset,0.0
+Abbotshall,1,1,Fife,0.0
+Abergavenny,1,1,Monmouthshire,100.0
+Werrington,1,1,Devon,0.0
+West Bagborough,1,1,Somerset,0.0
+West Butterwick,1,1,Lincolnshire,0.0
+West Calder,1,1,Haddingtonshire (East Lothian),0.0
+West Clandon,1,1,Surrey,0.0
+West Dean,1,2,Sussex,0.0
+West Farleigh,1,1,Kent,0.0
+West Ham,1,1,Essex,100.0
+Warrington,1,1,Lancashire,0.0
+Washfield,1,1,Devon,0.0
+Watford,1,2,Hertfordshire,0.0
+Weaverham,1,1,Cheshire,0.0
+Wellingborough,1,1,Northamptonshire,0.0
+Wellington,1,1,Shropshire,0.0
+Wells,1,2,Somerset,0.0
+Weobley,1,1,Herefordshire,0.0
+Ystradgynlais,1,1,Brecknockshire,0.0
+Allerton,1,1,Lancashire,100.0
+Barnet,1,1,Hertfordshire,0.0
+Barnham,1,1,Sussex,100.0
+Barony,1,1,Lanarkshire,100.0
+Bawdrip,1,2,Somerset,0.0
+Beachley,1,1,Gloucestershire,0.0
+Beckenham,1,1,Kent,0.0
+Wrexham,1,2,Denbighshire,0.0
+Wrockwardine,1,1,Shropshire,0.0
+Wye,1,1,Kent,0.0
+Wyre Piddle,1,2,Worcestershire,0.0
+Yalding,1,1,Kent,0.0
+Yardley,1,2,Hertfordshire,0.0
+Yeadon,1,1,Yorkshire,0.0
+Yoxford,1,1,Suffolk,0.0
+Drayton,1,1,Norfolk,0.0
+Droitwich,1,1,Worcestershire,0.0
+Droxford,1,2,Hampshire,0.0
+Duffield,1,1,Derbyshire,0.0
+Dufftown,1,1,Banffshire,0.0
+Dullingham,1,4,Cambridgeshire,0.0
+Dumfries,1,4,Dumfriesshire,0.0
+Dunbar,1,1,Haddingtonshire (East Lothian),0.0
+Dinsdale,1,1,Durham,0.0
+Diss,1,1,Norfolk,0.0
+Ditton,1,1,Kent,100.0
+Dollar,1,1,Clackmannanshire,0.0
+Donnington,1,1,Herefordshire,0.0
+Donyatt,1,1,Somerset,0.0
+Dores,1,1,Inverness-shire,0.0
+Doune,1,1,Perthshire,0.0
+Weston Turville,1,1,Buckinghamshire,0.0
+Darley,1,3,Derbyshire,0.0
+Darlington,1,1,Durham,0.0
+Deal,1,2,Kent,0.0
+Denny,1,7,Stirlingshire,0.0
+Denton,1,2,Norfolk,0.0
+Dewlish,1,3,Dorset,0.0
+Dingestow,1,2,Monmouthshire,100.0
+West Molesey,1,2,Surrey,0.0
+West Teignmouth,1,1,Devon,100.0
+West Wycombe,1,1,Buckinghamshire,0.0
+Westbourne,1,1,Sussex,0.0
+Westbury Leigh,1,1,Wiltshire,0.0
+Alnwick,1,1,Northumberland,0.0
+Wester Helmsdale,1,2,Sutherland,0.0
+Westerham,1,2,Kent,0.0
+Compton Pauncefoot,1,1,Somerset,0.0
+Cookstown,1,1,Forfarshire,0.0
+Coombe Bissett,1,1,Wiltshire,0.0
+Corpach,1,1,Argyll,0.0
+Corsham,1,6,Wiltshire,0.0
+Cossington,1,1,Somerset,0.0
+Coventry,1,1,Warwickshire,0.0
+Cowes,1,1,Hampshire,0.0
+Easter Logie,1,1,Ross & Cromarty,0.0
+Eccles,1,1,Berwickshire,0.0
+Ecton,1,1,Northamptonshire,0.0
+Eday,1,1,Orkney and Shetland,0.0
+Edlington,1,1,Lincolnshire,0.0
+Effingham,1,1,Surrey,0.0
+Eggbuckland,1,1,Devon,0.0
+Compton Martin,1,1,Dorset,0.0
+East Coker,1,4,Somerset,0.0
+East Cowes,1,2,Hampshire,100.0
+East Dereham,1,1,Norfolk,0.0
+East Harling,1,1,Norfolk,0.0
+East Lewes,1,1,Sussex,100.0
+East Molesey,1,2,Surrey,0.0
+East Retford,1,1,Nottinghamshire,0.0
+East Stratton,1,1,Hampshire,0.0
+Dunfermline,1,3,Fife,0.0
+Dunnottar,1,1,Kincardineshire,0.0
+Duns,1,1,Berwickshire,0.0
+Durham,1,1,Durham,0.0
+Dursley,1,1,Gloucestershire,0.0
+East Barnet,1,1,Hertfordshire,0.0
+East Bergholt,1,1,Suffolk,0.0
+East Burleigh,1,3,Devon,0.0
+Enfield,1,1,Middlesex,0.0
+Ennerdale,1,1,Cumberland,0.0
+Epping Forest,1,1,Essex,0.0
+Epsom,1,1,Surrey,0.0
+Erbistock,1,1,Flintshire,0.0
+Errol,1,1,Perthshire,0.0
+Erskine,1,1,Renfrewshire,0.0
+Evanton,1,1,Ross & Cromarty,0.0
+Cupar,1,2,Fife,0.0
+Curry Rivell,1,1,Somerset,0.0
+Cutcombe,1,1,Somerset,0.0
+Dagenham,1,2,Essex,100.0
+Eling,1,2,Hampshire,0.0
+Eltham,1,3,Kent,0.0
+Elton,1,1,Lancashire,100.0
+Ember Court,1,1,Surrey,0.0
+Crowborough,1,1,Sussex,0.0
+Crowland,1,1,Lincolnshire,0.0
+Crowthorne,1,1,Berkshire,0.0
+Cruden,1,1,Aberdeenshire,100.0
+Cuckfield,1,1,Sussex,100.0
+Culbokie,1,1,Inverness-shire,0.0
+Cullompton,1,1,Devon,0.0
+Cumbernauld,1,1,Dunbartonshire,100.0
+Cramlington,1,1,Northumberland,0.0
+Cranbrook,1,2,Kent,0.0
+Creech St Michael,1,1,Somerset,0.0
+Cricklade,1,1,Wiltshire,0.0
+Crieff,1,2,Perthshire,0.0
+Crimond,1,1,Aberdeenshire,0.0
+Cromhall,1,1,Gloucestershire,0.0
+Crosshill,1,1,Ayrshire,0.0
+Frittenden,1,1,Kent,0.0
+Frocester,1,3,Gloucestershire,0.0
+Froxfield,1,2,Wiltshire,0.0
+Fylde,1,1,Lancashire,0.0
+Gainford,1,1,Durham,0.0
+Galston,1,2,Ayrshire,0.0
+Garboldisham,1,5,Norfolk,0.0
+Garstang,1,1,Lancashire,0.0
+Fordingbridge,1,1,Hampshire,0.0
+Forgandenny,1,2,Perthshire,0.0
+Fort Augustus,1,1,Inverness-shire,0.0
+Forton,1,1,Lancashire,0.0
+Frampton,1,1,Dorset,0.0
+Frant,1,1,Sussex,0.0
+Freshford,1,1,Somerset,0.0
+Frindsbury,1,1,Kent,0.0
+Farningham,1,1,Kent,0.0
+Felbridge,1,1,Surrey,0.0
+Fettercain,1,3,Kincardineshire,0.0
+Findon,1,1,Sussex,100.0
+Finmere,1,1,Oxfordshire,0.0
+Flint,1,2,Flintshire,0.0
+Fochabers,1,1,Moray,0.0
+Fonthill Gifford,1,1,Wiltshire,0.0
+Eversley,1,2,Hampshire,0.0
+Evesham,1,2,Worcestershire,0.0
+Exhall-cum-Wixford,1,1,Warwickshire,0.0
+Eye,1,1,Suffolk,0.0
+Eyemouth,1,1,Berwickshire,0.0
+Eyke,1,1,Suffolk,0.0
+Faccombe,1,1,Hampshire,0.0
+Falmouth,1,5,Cornwall,0.0
+Great Torrington,1,3,Devon,0.0
+Great Waldingfield,1,1,Suffolk,0.0
+Great Woolstone,1,1,Buckinghamshire,0.0
+Great Yarmouth,1,2,Norfolk,0.0
+Greenlaw,1,1,Berwickshire,0.0
+Gretna,1,1,Dumfriesshire,0.0
+Gumley,1,1,Leicestershire,0.0
+Hacheston,1,2,Suffolk,0.0
+Grantham,1,1,Lincolnshire,0.0
+Great Baddow,1,4,Essex,0.0
+Great Bookham,1,1,Surrey,100.0
+Great Brickhill,1,1,Buckinghamshire,0.0
+Great Clacton,1,1,Essex,0.0
+Great Crosby,1,1,Lancashire,100.0
+Great Marlow,1,1,Buckinghamshire,100.0
+Great Shelsley,1,2,Worcestershire,0.0
+Glenluce,1,1,Wigtownshire,100.0
+Glenmuick,1,1,Aberdeenshire,0.0
+Glynde,1,1,Sussex,0.0
+Godalming,1,1,Surrey,0.0
+Gosforth,1,2,Cumberland,0.0
+Gosport,1,1,Hampshire,0.0
+Goudhurst,1,2,Kent,0.0
+Gourock,1,1,Renfrewshire,0.0
+Gartmore,1,1,Stirlingshire,0.0
+Gartur,1,2,Stirlingshire,0.0
+Gateshead,1,1,Northumberland,0.0
+Gattonside,1,1,Roxburghshire,0.0
+Gayton,1,2,Staffordshire,0.0
+Gerrans,1,2,Cornwall,0.0
+Glamis,1,1,Forfarshire,0.0
+Glass,1,1,Aberdeenshire,0.0
+Helmsley,1,1,Yorkshire,0.0
+Hengrave,1,1,Suffolk,0.0
+Herne Hill,1,1,Surrey,0.0
+Heston,1,2,Middlesex,0.0
+Hethe,1,1,Oxfordshire,0.0
+Heversham,1,1,Westmorland,100.0
+Hexham,1,2,Northumberland,0.0
+Heybridge,1,4,Essex,0.0
+Haverhill,1,3,Suffolk,0.0
+Havering,1,1,Essex,0.0
+Hawarden,1,1,Flintshire,0.0
+Hawkshead,1,1,Lancashire,0.0
+Hayward’s Heath,1,1,Sussex,0.0
+Heckfield,1,1,Hampshire,0.0
+Helensburgh,1,1,Dunbartonshire,100.0
+Hellingly,1,1,Sussex,0.0
+Hanley Castle,1,1,Worcestershire,0.0
+Harbledown,1,1,Kent,100.0
+Harborough,1,1,Leicestershire,0.0
+Harpsden,1,3,Oxfordshire,100.0
+Harrold,1,2,Bedfordshire,0.0
+Haslingden,1,1,Lancashire,0.0
+Hatfield Peverel,1,1,Essex,0.0
+Haverfordwest,1,1,Pembrokeshire,0.0
+Halkirk,1,2,Caithness,0.0
+Hallow,1,1,Worcestershire,0.0
+Halnaby,1,1,Yorkshire,0.0
+Halstead,1,2,Essex,0.0
+Halton,1,1,Buckinghamshire,0.0
+Hambledon,1,1,Hampshire,0.0
+Hamilton,1,1,Lanarkshire,0.0
+Handley,1,1,Cheshire,0.0
+Christchurch,1,1,Hampshire,0.0
+Clapham,1,5,Surrey,0.0
+Clashmore,1,1,Sutherland,0.0
+Clatt,1,2,Aberdeenshire,0.0
+Cleghorn,1,1,Lanarkshire,0.0
+Clenchwarton,1,1,Norfolk,0.0
+Clerkington,1,2,Haddingtonshire (East Lothian),0.0
+Clitheroe,1,1,Lancashire,100.0
+Howtown,1,1,Westmorland,0.0
+Hull,1,2,Yorkshire,0.0
+Chickerell,1,1,Dorset,0.0
+Chigwell,1,1,Essex,0.0
+Chilcompton,1,2,Somerset,0.0
+Chipping Sodbury,1,1,Gloucestershire,0.0
+Chorleywood,1,1,Hertfordshire,0.0
+Chorlton-Cum-Hardy,1,1,Lancashire,0.0
+Holt,1,0,Norfolk,0.0
+Honiton,1,1,Devon,0.0
+Hordle,1,1,Hampshire,0.0
+Horfield,1,1,Gloucestershire,0.0
+Horncastle,1,1,Lincolnshire,0.0
+Horringer,1,1,Suffolk,0.0
+Horsham,1,1,Sussex,0.0
+Horsleydown,1,1,Surrey,0.0
+Higher Bebington,1,1,Cheshire,0.0
+Hillingdon,1,2,Middlesex,0.0
+Hockham,1,1,Norfolk,0.0
+Holcombe Barton,1,1,Devon,0.0
+Holkham,1,1,Norfolk,0.0
+Holme Cultram,1,1,Cumberland,0.0
+Holmpton,1,3,Yorkshire,0.0
+Holmrook,1,2,Cumberland,0.0
+Ightham,1,1,Kent,0.0
+Ilford,1,1,Essex,0.0
+Insch,1,1,Aberdeenshire,0.0
+Inveresk,1,1,Haddingtonshire (East Lothian),0.0
+Inverugie,1,1,Moray,0.0
+Inverurie,1,2,Aberdeenshire,0.0
+Iron Acton,1,1,Gloucestershire,0.0
+Irthlingborough,1,1,Northamptonshire,0.0
+Huntley,1,2,Aberdeenshire,0.0
+Hurst,1,1,Berkshire,0.0
+Hutton,1,1,Lancashire,0.0
+Hyde,1,1,Cheshire,0.0
+Hythe,1,1,Kent,0.0
+Icklingham,1,1,Suffolk,0.0
+Ideford,1,1,Devon,0.0
+Ifield,1,2,Sussex,100.0
+Coldingham,1,2,Berwickshire,0.0
+Coldstream,1,1,Berwickshire,0.0
+Colinsburgh,1,1,Fife,0.0
+Collin,1,1,Dumfriesshire,0.0
+Colyton,1,2,Devon,0.0
+Compton Greenfield,1,1,Gloucestershire,0.0
+Hulme,1,0,Lancashire,0.0
+Hungerford,1,2,Berkshire,0.0
+Cloncaird,1,1,Ayrshire,0.0
+Cluny,1,1,Aberdeenshire,0.0
+Clutton,1,3,Somerset,0.0
+Clyst St Mary,1,2,Devon,0.0
+Cobham,1,2,Surrey,0.0
+Cockermouth,1,1,Cumberland,0.0
+Coddington,1,1,Herefordshire,0.0
+Codford St Peter,1,1,Wiltshire,0.0
+Kings Bromley,1,6,Staffordshire,0.0
+Kingsdown,1,1,Gloucestershire,0.0
+Kingston-upon-Hull,1,1,Yorkshire,100.0
+Kingweston,1,0,Somerset,0.0
+Kinloss,1,1,Moray,0.0
+Kinnersley Castle,1,1,Herefordshire,0.0
+Kinross,1,1,Kincardineshire,0.0
+Kinstair,1,1,Aberdeenshire,0.0
+Kilmartin,1,1,Argyll,0.0
+Kilmory,1,1,Argyll,0.0
+Kiltarlity,1,1,Inverness-shire,0.0
+Kiltearn,1,4,Ross & Cromarty,0.0
+Kilwinning,1,2,Ayrshire,0.0
+Kincardine O'Neil,1,2,Aberdeenshire,0.0
+King's Lynn,1,1,Norfolk,0.0
+Kinghorn,1,1,Fife,0.0
+Kelso,1,3,Roxburghshire,0.0
+Kennethmont,1,1,Aberdeenshire,0.0
+Kentchurch,1,1,Herefordshire,0.0
+Kilbarchan,1,2,Renfrewshire,0.0
+Kilchoan,1,1,Inverness-shire,0.0
+Killearn,1,1,Stirlingshire,0.0
+Killearnan,1,1,Ross & Cromarty,0.0
+Kilmacolm,1,2,Renfrewshire,0.0
+Iscoed,1,3,Carmarthenshire,0.0
+Island of Lundy,1,1,Devon,0.0
+Isle of Islay,1,1,Argyll,0.0
+Isle of Thanet,1,2,Kent,0.0
+Islip,1,1,Northamptonshire,0.0
+Jedburgh,1,1,Roxburghshire,0.0
+Keith,1,4,Moray,0.0
+Kelsale,1,1,Suffolk,0.0
+Leyton,1,2,Essex,0.0
+Leytonstone,1,1,Essex,0.0
+Lhanbryde,1,1,Moray,0.0
+Carew,1,2,Pembrokeshire,0.0
+Carham,1,1,Northumberland,0.0
+Carlung,1,1,Ayrshire,0.0
+Carmyllie,1,1,Forfarshire,0.0
+Carnforth,1,1,Lancashire,0.0
+Leamington Spa,1,9,Warwickshire,0.0
+Leigh,1,1,Worcestershire,0.0
+Leighton,1,1,Montgomeryshire,100.0
+Lennoxtown,1,1,Stirlingshire,0.0
+Lentran,1,1,Inverness-shire,0.0
+Leominster,1,1,Herefordshire,0.0
+Lesmahagow,1,1,Lanarkshire,0.0
+Leweston,1,2,Dorset,0.0
+Knockentiber,1,1,Ayrshire,0.0
+Knutsford,1,1,Cheshire,0.0
+Lanark,1,1,Lanarkshire,0.0
+Langbank,1,2,Renfrewshire,0.0
+Lasswade,1,1,Midlothian (Edinburgh),0.0
+Laugharne,1,4,Carmarthenshire,0.0
+Laurieston,1,2,Kirkcudbrightshire,0.0
+Laverstoke,1,1,Hampshire,0.0
+Kirkcolm,1,1,Wigtownshire,0.0
+Kirkcudbright,1,2,Kirkcudbrightshire,0.0
+Kirkdale,1,1,Lancashire,100.0
+Kirkinner,1,1,Wigtownshire,0.0
+Kirknewton,1,1,Linlithgowshire (West Lothian),0.0
+Kirktonhill,1,3,Aberdeenshire,0.0
+Kirkwall,1,1,Orkney and Shetland,0.0
+Kirton Lindsey,1,4,Lincolnshire,0.0
+Little Marlow,1,1,Buckinghamshire,0.0
+Little Munden,1,1,Hertfordshire,100.0
+Little Parndon,1,2,Essex,0.0
+Little Shelford,1,1,Cambridgeshire,0.0
+Little Woolton,1,1,Lancashire,0.0
+Llangoed Castle,1,1,Brecknockshire,0.0
+Lochgilphead,1,1,Argyll,0.0
+Londonderry,1,1,Yorkshire,0.0
+Lilburn Grange,1,2,Northumberland,0.0
+Lincoln,1,3,Lincolnshire,0.0
+Lindertis,1,1,Forfarshire,0.0
+Lindley,1,1,Leicestershire,0.0
+Linthouse,1,1,Lanarkshire,0.0
+Little Bearstead,1,1,Essex,0.0
+Little Bedwyn,1,1,Wiltshire,0.0
+Little Hereford,1,1,Worcestershire,0.0
+Chatton,1,1,Northumberland,0.0
+Cheadle,1,1,Staffordshire,0.0
+Chelsfield,1,1,Kent,0.0
+Chelwood,1,1,Somerset,0.0
+Cheriton,1,1,Kent,100.0
+Chertsey,1,1,Surrey,100.0
+Chevening,1,1,Kent,0.0
+Chew Magna,1,1,Somerset,0.0
+Castle Douglas,1,1,Kirkcudbrightshire,0.0
+Castle Semple,1,4,Renfrewshire,0.0
+Catesfield,1,1,Hampshire,0.0
+Catherington,1,1,Hampshire,0.0
+Cawdor,1,1,Inverness-shire,0.0
+Chalke,1,1,Kent,0.0
+Chard,1,1,Somerset,0.0
+Charmouth,1,3,Dorset,0.0
+Mere,1,3,Cheshire,0.0
+Mereworth,1,2,Kent,100.0
+Merton,1,1,Devon,0.0
+Mickleham,1,1,Surrey,0.0
+Mickleton,1,1,Gloucestershire,0.0
+Midhurst,1,1,Sussex,100.0
+Midmar,1,2,Aberdeenshire,0.0
+Mill Green,1,1,Essex,0.0
+Marnoch,1,1,Banffshire,0.0
+Maryport,1,1,Cumberland,0.0
+Maulds Meaburn,1,1,Cumberland,0.0
+Maybole,1,1,Ayrshire,0.0
+Mayfield,1,1,Sussex,0.0
+Melcombe Regis,1,1,Dorset,100.0
+Melldalloch,1,1,Argyll,0.0
+Mells,1,1,Somerset,0.0
+Macclesfield,1,2,Cheshire,0.0
+Madehurst,1,1,Sussex,0.0
+Madron,1,2,Cornwall,0.0
+Maisemore,1,1,Gloucestershire,0.0
+Maldon,1,1,Essex,0.0
+Market Rasen,1,2,Lincolnshire,0.0
+Markinch,1,1,Fife,0.0
+Marlow,1,1,Buckinghamshire,0.0
+Long Compton,1,1,Warwickshire,0.0
+Long Sutton,1,1,Somerset,0.0
+Longstock,1,1,Hampshire,0.0
+Louth,1,1,Lincolnshire,0.0
+Lowestoft,1,1,Suffolk,0.0
+Lumsden,1,1,Aberdeenshire,0.0
+Lydiard Millicent,1,3,Wiltshire,0.0
+Lyndhurst,1,3,Hampshire,0.0
+Nevendon,1,1,Essex,100.0
+Newburgh,1,1,Fife,0.0
+Newcastle under Lyme,1,1,Staffordshire,0.0
+Brimpton,1,1,Berkshire,0.0
+Brislington,1,2,Somerset,0.0
+Broadstairs,1,1,Kent,100.0
+Brockbury,1,1,Worcestershire,0.0
+Brockenhurst,1,3,Hampshire,0.0
+Mounie,1,1,Aberdeenshire,0.0
+Mountgerald,1,3,Ross & Cromarty,0.0
+Much Birch,1,1,Herefordshire,0.0
+Mudeford,1,1,Hampshire,0.0
+Muir of Ord,1,1,Ross & Cromarty,100.0
+Musselburgh,1,1,Haddingtonshire (East Lothian),100.0
+Neath,1,1,Glamorgan,0.0
+Nether Kellet,1,1,Lancashire,0.0
+Monksilver,1,1,Somerset,100.0
+Monkstadt,1,1,Inverness-shire,0.0
+Monymusk,1,2,Aberdeenshire,0.0
+Morchard Bishop,1,3,Devon,100.0
+Moresby,1,1,Cumberland,0.0
+Moreton-in-the-Marsh,1,1,Gloucestershire,0.0
+Mortimer,1,1,Berkshire,0.0
+Moulin,1,1,Perthshire,0.0
+Milstead,1,1,Kent,0.0
+Milwich,1,1,Staffordshire,0.0
+Minchinhampton,1,2,Gloucestershire,0.0
+Minehead,1,1,Somerset,100.0
+Mitcham,1,3,Surrey,0.0
+Modbury,1,2,Devon,0.0
+Moidart,1,1,Inverness-shire,0.0
+Mold,1,2,Flintshire,0.0
+Newton Stewart,1,1,Kirkcudbrightshire,0.0
+Newton-on-Ayr,1,1,Ayrshire,0.0
+Norham,1,1,Northumberland,0.0
+Normanton,1,1,Yorkshire,0.0
+North Aston,1,2,Oxfordshire,0.0
+North Knapdale,1,0,Argyll,0.0
+North Stoneham,1,1,Hampshire,0.0
+North Uist,1,1,Inverness-shire,0.0
+Calderbank,1,1,Lanarkshire,0.0
+Callander,1,1,Stirlingshire,0.0
+Calne,1,4,Wiltshire,0.0
+Camberwell,1,1,Surrey,0.0
+Camerton,1,2,Somerset,0.0
+Newmarket,1,2,Cambridgeshire,0.0
+Newport Pagnell,1,1,Buckinghamshire,0.0
+Newton,1,2,Aberdeenshire,0.0
+Bullington,1,0,Hampshire,0.0
+Burton-upon-Stather,1,2,Lincolnshire,0.0
+Bushey Heath,1,1,Hertfordshire,0.0
+Butleigh,1,1,Somerset,100.0
+Butterleigh,1,1,Devon,0.0
+Bywell St Peter,1,1,Northumberland,0.0
+Cabrach,1,3,Moray,100.0
+Cadder,1,4,Dunbartonshire,0.0
+Bromfield,1,1,Cumberland,0.0
+Brompton Regis,1,1,Somerset,0.0
+Brookmans Park,1,1,Hertfordshire,100.0
+Brotton,1,1,Yorkshire,0.0
+Buckland Filleigh,1,1,Devon,0.0
+Buckton,1,1,Northumberland,0.0
+Budleigh Salterton,1,3,Devon,0.0
+Budock,1,1,Cornwall,0.0
+Pencarrow,1,1,Cornwall,0.0
+Penkridge,1,1,Staffordshire,0.0
+Penryn,1,1,Cornwall,0.0
+Pentrich,1,1,Derbyshire,0.0
+Pershore,1,2,Worcestershire,100.0
+"Petersham, Richmond",1,6,Surrey,0.0
+Petterill Crooks,1,1,Cumberland,0.0
+Petworth,1,1,Sussex,0.0
+Oxton,1,1,Cheshire,0.0
+Pangbourne,1,2,Berkshire,0.0
+Patrick Brompton,1,1,Yorkshire,0.0
+Patrington,1,1,Yorkshire,0.0
+Peckforton,1,1,Cheshire,0.0
+Pedmore,1,1,Worcestershire,0.0
+Pembury,1,1,Kent,0.0
+Pencaitland,1,1,Haddingtonshire (East Lothian),0.0
+Ormaig,1,1,Argyll,0.0
+Ormskirk,1,1,Lancashire,0.0
+Ottery St Mary,1,1,Devon,0.0
+Ottringham,1,1,Yorkshire,0.0
+Oundle,1,2,Northamptonshire,0.0
+Over Alderley,1,3,Cheshire,0.0
+Over Arley,1,1,Staffordshire,0.0
+Over Norton,1,2,Oxfordshire,0.0
+Northaw,1,1,Hertfordshire,0.0
+Northfleet,1,1,Kent,0.0
+Norton St Philip,1,1,Somerset,0.0
+Oakham,1,1,Rutland,0.0
+Okeford Fitzpaine,1,1,Dorset,0.0
+Old Windsor,1,1,Berkshire,0.0
+Olney,1,1,Buckinghamshire,0.0
+Ongar,1,1,Essex,0.0
+Redcastle,1,1,Ross & Cromarty,0.0
+Rhynie,1,1,Aberdeenshire,0.0
+Rickmansworth,1,1,Hertfordshire,0.0
+Ringsfield,1,1,Suffolk,0.0
+Ripple,1,2,Worcestershire,0.0
+Risley,1,1,Derbyshire,0.0
+Rock,1,1,Northumberland,0.0
+Rodmarton,1,1,Gloucestershire,0.0
+Pwllheli,1,1,Caernarfonshire,0.0
+Raasay Island,1,1,Inverness-shire,0.0
+Rackenford,1,1,Devon,0.0
+Rackheath,1,1,Norfolk,0.0
+Radstock,1,1,Somerset,0.0
+Raskelf,1,1,Yorkshire,0.0
+Raughton Head,1,1,Cumberland,0.0
+Ravenglass,1,1,Cumberland,100.0
+Portchester,1,1,Hampshire,0.0
+Portishead,1,1,Somerset,0.0
+Portsoy,1,1,Banffshire,100.0
+Potters Bar,1,1,Hertfordshire,0.0
+Presteigne,1,1,Herefordshire,0.0
+Probus,1,1,Cornwall,0.0
+Puncknowle,1,1,Dorset,0.0
+Purton,1,2,Wiltshire,0.0
+Pickering,1,1,Yorkshire,0.0
+Pitfour,1,2,Aberdeenshire,0.0
+Plympton,1,1,Devon,0.0
+Plympton St Mary,1,1,Devon,0.0
+Podington,1,1,Bedfordshire,0.0
+Ponsonby,1,1,Cumberland,0.0
+Pontypool,1,1,Monmouthshire,0.0
+Porlock,1,1,Somerset,0.0
+Botley's Park,1,1,Surrey,0.0
+Botriphnie,1,2,Banffshire,0.0
+Boughton Malherbe,1,2,Kent,0.0
+Bowling,1,1,Dunbartonshire,0.0
+Bowness,1,4,Westmorland,0.0
+Bowringsleigh,1,1,Devon,0.0
+Box,1,4,Wiltshire,0.0
+Bradbourne,1,1,Kent,0.0
+Ryhall,1,2,Rutland,0.0
+Ryston,1,2,Norfolk,0.0
+Saffron Walden,1,1,Essex,0.0
+Saltash,1,1,Cornwall,0.0
+Sandgate,1,1,Kent,0.0
+Bolton by Bowland,1,1,Lancashire,0.0
+Bonshaw,1,1,Dumfriesshire,0.0
+Bostock,1,1,Cheshire,0.0
+Rotherhithe,1,1,Surrey,0.0
+Rowner,1,1,Hampshire,0.0
+Roxburgh,1,1,Roxburghshire,0.0
+Royston,1,1,Cambridgeshire,0.0
+Rugeley,1,1,Staffordshire,0.0
+Runcorn,1,1,Cheshire,0.0
+Rushford,1,2,Suffolk,0.0
+Rye,1,1,Sussex,0.0
+Roehampton,1,0,Surrey,0.0
+Rogate,1,1,Sussex,0.0
+Romford,1,1,Essex,0.0
+Romsey,1,1,Hampshire,0.0
+Rosemarkie,1,1,Ross & Cromarty,0.0
+Ross,1,1,Herefordshire,0.0
+Ross On Wye,1,1,Herefordshire,0.0
+Rotherfield Greys,1,2,Oxfordshire,100.0
+Shalstone,1,1,Buckinghamshire,0.0
+Sheerness,1,1,Kent,0.0
+Shenley Hill,1,1,Hertfordshire,0.0
+Shepton Mallet,1,1,Somerset,0.0
+Sherborne,1,2,Dorset,0.0
+Shiplake,1,1,Oxfordshire,0.0
+Shobrooke,1,1,Devon,0.0
+Shrewsbury,1,1,Shropshire,0.0
+Sandhurst,1,1,Berkshire,0.0
+Sandy,1,2,Bedfordshire,0.0
+Sawbridgeworth,1,4,Hertfordshire,0.0
+Scruton,1,1,Yorkshire,0.0
+Seaford,1,2,Sussex,100.0
+Seaforth,1,1,Lancashire,0.0
+Sevington,1,1,Kent,0.0
+Shalford,1,2,Essex,0.0
+Brentwood,1,3,Essex,0.0
+Bridestowe,1,2,Devon,0.0
+Bridge Of Allan,1,1,Stirlingshire,0.0
+Bridge of Earn,1,3,Perthshire,0.0
+Bridgwater,1,1,Somerset,0.0
+Bridlington,1,1,Yorkshire,0.0
+Brighthelmstone,1,1,Sussex,0.0
+Brightling,1,2,Sussex,0.0
+Braintree,1,1,Essex,0.0
+Brampford Speke,1,2,Devon,0.0
+Brampton,1,1,Cambridgeshire,0.0
+Brandon,1,1,Suffolk,0.0
+Brasted,1,1,Kent,0.0
+Brattleby,1,2,Lincolnshire,0.0
+Bray,1,2,Berkshire,0.0
+Brecon,1,2,Brecknockshire,0.0
+St Helens,1,2,Hampshire,0.0
+St Leonards,1,1,Sussex,100.0
+St Marychurch,1,1,Devon,0.0
+St Olla,1,1,Orkney and Shetland,0.0
+Staindrop,1,1,Durham,0.0
+Stanton Drew,1,1,Somerset,0.0
+Stapleford,1,1,Cambridgeshire,0.0
+Stapleton [now in Bristol],1,1,Gloucestershire,0.0
+South Stoneham,1,2,Hampshire,0.0
+Southport,1,1,Lancashire,0.0
+Southstoke,1,1,Somerset,0.0
+Sowerby,1,2,Yorkshire,0.0
+Spennithorne,1,1,Yorkshire,0.0
+Spetisbury,1,1,Dorset,0.0
+St Allen,1,1,Cornwall,0.0
+St Boswells,1,1,Roxburghshire,0.0
+Somerton,1,1,Somerset,100.0
+South Baddesley,1,2,Hampshire,0.0
+South Benfleet,1,2,Essex,0.0
+South Collingham,1,1,Nottinghamshire,100.0
+South Hanningfield,1,1,Essex,0.0
+"South Meols, Southport",1,2,Lancashire,100.0
+South Molton,1,1,Devon,100.0
+South Reston,1,1,Lincolnshire,0.0
+Shute,1,1,Devon,0.0
+Silton,1,1,Dorset,0.0
+Skipness,1,1,Argyll,0.0
+Skye,1,1,Inverness-shire,0.0
+Smeeth,1,1,Kent,0.0
+Snaith,1,1,Yorkshire,0.0
+Snettisham,1,1,Norfolk,0.0
+Somersham,1,1,Cambridgeshire,0.0
+Tarvin,1,1,Cheshire,0.0
+Taunton,1,1,Somerset,100.0
+Belper,1,1,Derbyshire,100.0
+Belton,1,1,Lincolnshire,0.0
+Berry Pomeroy,1,1,Devon,0.0
+Berwick-upon-Tweed,1,3,Northumberland,0.0
+Bickleigh,1,2,Devon,0.0
+Biddenham,1,1,Bedfordshire,0.0
+Sutton,1,1,Surrey,0.0
+Swaffham,1,1,Norfolk,0.0
+Swainswick,1,2,Somerset,0.0
+Swanton Morley,1,1,Norfolk,0.0
+Swindon,1,1,Wiltshire,100.0
+Symington,1,1,Ayrshire,0.0
+Tain,1,5,Ross & Cromarty,0.0
+Taplow,1,4,Buckinghamshire,0.0
+Stowting,1,1,Kent,0.0
+Stracathro,1,1,Forfarshire,0.0
+Stragglethorpe,1,1,Lincolnshire,0.0
+Stratford Mortimer,1,1,Berkshire,100.0
+Stratford-sub-Castle,1,1,Wiltshire,0.0
+Streatham,1,2,Surrey,0.0
+Stroud,1,2,Gloucestershire,0.0
+Studland,1,1,Dorset,0.0
+Starrcross,1,1,Devon,0.0
+"Startforth, Teesdale",1,1,Yorkshire,0.0
+Stenhousemuir,1,1,Stirlingshire,100.0
+Steventon,1,1,Hampshire,0.0
+Stogursey,1,2,Somerset,0.0
+Stone,1,1,Staffordshire,0.0
+Stow-in-the-Wold,1,1,Gloucestershire,0.0
+Stowe House,1,2,Buckinghamshire,0.0
+Thompson,1,1,Norfolk,0.0
+Thursford,1,1,Norfolk,0.0
+Ticehurst,1,2,Sussex,0.0
+Tisley,1,1,Gloucestershire,0.0
+Titchfield,1,2,Hampshire,0.0
+Tormoham (now Torbay),1,2,Devon,0.0
+Totnes,1,2,Devon,0.0
+Totteridge,1,2,Hertfordshire,0.0
+Tempsford,1,2,Bedfordshire,0.0
+Tenterden,1,1,Kent,0.0
+Teston,1,1,Kent,0.0
+Testwood,1,1,Hampshire,0.0
+Tetbury,1,1,Gloucestershire,0.0
+Thames Ditton,1,1,Surrey,0.0
+Thatcham,1,1,Berkshire,0.0
+Thimbleby,1,2,Yorkshire,0.0
+Blairgowrie,1,2,Perthshire,0.0
+Blandford Forum,1,1,Dorset,0.0
+Blankney,1,4,Lincolnshire,0.0
+Bledlow,1,1,Buckinghamshire,0.0
+Bletchingley,1,1,Surrey,0.0
+Bletsoe,1,1,Bedfordshire,0.0
+Bo'ness,1,1,Linlithgowshire (West Lothian),0.0
+Bodmin,1,2,Cornwall,0.0
+Binfield,1,3,Berkshire,0.0
+Bingley,1,1,Yorkshire,0.0
+Binstead,1,1,Hampshire,0.0
+Bishops Hull,1,6,Somerset,0.0
+Bishops Stortford,1,2,Essex,0.0
+Bishops Sutton,1,1,Hampshire,0.0
+Bitton,1,1,Gloucestershire,0.0
+Blairadam,1,1,Kinross-shire,0.0
+Walton on Thames,1,1,Surrey,0.0
+Wappenham,1,1,Northamptonshire,0.0
+Wargrave,1,1,Berkshire,100.0
+Woodbridge,1,1,Suffolk,0.0
+Wooden,1,2,Roxburghshire,0.0
+Woolaston,1,1,Gloucestershire,0.0
+Woolhampton,1,1,Berkshire,0.0
+Wraysbury,1,1,Buckinghamshire,0.0
+Uppingham,1,3,Rutland,0.0
+Upton St Leonards,1,2,Gloucestershire,0.0
+Upton-upon-Severn,1,1,Worcestershire,100.0
+Urray,1,2,Ross & Cromarty,0.0
+Ventnor,1,4,Hampshire,0.0
+Wadenhoe,1,1,Northamptonshire,0.0
+Wadhurst,1,1,Sussex,0.0
+Wallasey,1,1,Cheshire,0.0
+Tubney,1,1,Berkshire,0.0
+Turriff,1,4,Aberdeenshire,0.0
+Uckfield,1,1,Sussex,0.0
+Udny,1,1,Aberdeenshire,0.0
+Up Marden,1,3,Sussex,0.0
+Uphill,1,1,Somerset,0.0
+Upleatham,1,1,Yorkshire,0.0
+Upper Tilgate,1,1,Sussex,0.0
+Towcester,1,1,Northamptonshire,100.0
+"Townlands, Lindfield",1,1,Sussex,0.0
+Trecŵn,1,3,Pembrokeshire,0.0
+Tredudwell,1,1,Cornwall,0.0
+Tring,1,1,Hertfordshire,0.0
+Troqueer,1,1,Kirkcudbrightshire,0.0
+Trowbridge,1,1,Wiltshire,0.0
+Truro,1,1,Cornwall,0.0
+Wigton,1,1,Cumberland,100.0
+Amersham,1,1,Buckinghamshire,0.0
+Wigtownshire,1,1,Wigtownshire,0.0
+Willingdon,1,3,Sussex,0.0
+Williton,1,1,Somerset,0.0
+Wilton,1,1,Roxburghshire,0.0
+Alverstoke,1,1,Hampshire,100.0
+Addington,1,1,Kent,100.0
+Ardgowan,1,1,Renfrewshire,0.0
+Arbroath,1,2,Forfarshire,0.0
+Whithorn,1,1,Wigtownshire,100.0
+Whitley,1,1,Yorkshire,0.0
+Whittington,1,2,Lancashire,0.0
+Wick,1,1,Caithness,0.0
+Wickwar,1,1,Gloucestershire,0.0
+Annan,1,2,Dumfriesshire,100.0
+Athelstone,1,2,Warwickshire,0.0
+Attadale,1,1,Ross & Cromarty,0.0
+Auchendolly,1,1,Kirkcudbrightshire,0.0
+Barnacre-With-Bonds,1,1,Lancashire,100.0
+Westbury on Trym,1,2,Gloucestershire,100.0
+Wheatfield,1,1,Oxfordshire,0.0
+Wherstead,1,1,Suffolk,0.0
+Arlesey,1,1,Bedfordshire,0.0
+West Horsley,1,1,Surrey,0.0
+Arrochar,1,2,Dunbartonshire,0.0
+Arun,1,2,Sussex,0.0
+Ashcott,1,2,Somerset,0.0
+Ashley,1,2,Wiltshire,0.0
+Ashtead,1,4,Surrey,0.0
+Ashurst,1,1,Kent,0.0
+Alford,1,1,Lincolnshire,0.0
+Balmaclellan,1,1,Kirkcudbrightshire,0.0
+Banff,1,2,Banffshire,0.0
+Bangor,1,2,Caernarfonshire,0.0
+Bardwell,1,1,Suffolk,0.0
+Barking,1,3,Essex,0.0
+Alresford,1,3,Hampshire,0.0
+West Kingsdown,1,3,Kent,0.0
+West Malling,1,1,Kent,0.0
+Auchterhouse,1,2,Forfarshire,0.0
+Audlem,1,1,Cheshire,0.0
+Axminster,1,1,Devon,0.0
+Aycliffe,1,1,Durham,0.0
+Aylesford,1,1,Kent,100.0
+Ayot St Lawrence,1,1,Hertfordshire,0.0
+Babington,1,2,Somerset,0.0
+Baddesley Clinton,1,1,Warwickshire,0.0
+Winterbourne,1,2,Gloucestershire,0.0
+Wishaw,1,1,Lanarkshire,0.0
+Withdean,1,1,Sussex,0.0
+Withycombe Rawleigh,1,1,Devon,0.0
+Wonersh,1,1,Surrey,0.0
+Wooburn Moor,1,1,Buckinghamshire,0.0
+Auchenreoch,1,1,Stirlingshire,0.0
+Auchterarder,1,2,Perthshire,0.0
+Adpar,1,1,Cardiganshire,0.0
+Ainderby Quernhow,1,1,Yorkshire,0.0
+Ainderby Steeple,1,1,Yorkshire,0.0
+Albourne,1,1,Sussex,100.0
+Aldbrough in Holderness,1,1,Yorkshire,0.0
+Aldbury,1,1,Hertfordshire,0.0
+Winkfield,1,1,Berkshire,100.0
+Winkfield Row,1,1,Berkshire,0.0

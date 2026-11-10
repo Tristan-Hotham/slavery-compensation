@@ -1,0 +1,82 @@
+address_id,hcounty,parish_county,parish_km,precision,town_city
+2118251767,Berkshire,Buckinghamshire,2.1138556282907084,area,Old Windsor
+2118252540,Berkshire,Buckinghamshire,1.8604801667351616,street,Windsor
+2118254479,Buckinghamshire,Berkshire,2.077952136553768,exact,Henley-on-Thames
+1625139018,Buckinghamshire,Shropshire,1.840671461263712,area,Whitchurch
+2118253659,Buckinghamshire,Middlesex,0.9962245079080975,street,Iver
+183,Caernarfonshire,Anglesey,4.120317394721084,exact,Bangor
+2118251211,Cambridgeshire,Huntingdonshire,0.5526096593794855,area,Brampton
+2118255923,Cambridgeshire,Huntingdonshire,1.0569508554038074,area,
+2118256085,Cheshire,Lancashire,5.4385627979078786,street,Hyde
+843,Cumberland,Lancashire,2.7368971585258133,area,Ulverston
+1209364301,Cumberland,Yorkshire,5.972989515962506,area,Sedbergh
+1444343845,Cumberland,Yorkshire,3.675081937396797,area,Dent
+2118253633,Cumberland,Westmorland,2.2367200608962965,exact,Maulds Meaburn
+78,Denbighshire,Flintshire,2.619609907251581,exact,
+2118251503,Dorset,Somerset,0.536854347928362,area,Compton Martin
+1906911157,Durham,Northumberland,3.5592889299285035,area,South Shields
+2118258945,Durham,Northumberland,3.782532643033933,street,South Shields
+2118258949,Durham,Northumberland,1.5974170951786582,street,South Shields
+2118253485,Essex,Hertfordshire,0.8492028957050927,area,Bishops Stortford
+247,Gloucestershire,Somerset,0.5229033893853647,street,Bristol
+250,Gloucestershire,Somerset,1.869986020397229,street,Bristol
+2118253221,Gloucestershire,Somerset,1.7821662877484614,exact,Bristol
+2118253251,Gloucestershire,Monmouthshire,1.6665249335120986,area,Beachley
+2118254625,Gloucestershire,Worcestershire,1.9063344564842857,street,Tewkesbury
+2118256257,Gloucestershire,Somerset,2.1243003096489286,area,Bitton
+221,Herefordshire,Shropshire,1.529630317038348,exact,Aston (near)
+2073257044,Hertfordshire,Buckinghamshire,2.0178461209393075,area,Chorleywood
+2118250525,Hertfordshire,Middlesex,2.0021936725033345,area,South Mimms
+2118251663,Hertfordshire,Essex,3.2427473236328077,exact,Cheshunt
+2118255487,Hertfordshire,Middlesex,2.0021936725033345,area,Potters Bar
+2118256023,Hertfordshire,Middlesex,1.2127540933797187,exact,South Mimms
+2118258629,Hertfordshire,Middlesex,1.2291879993183197,street,Barnet
+2118250727,Kent,Surrey,1.871735812705423,exact,Forest Hill
+494694976,Lancashire,Yorkshire,3.860167380110417,street,Clitheroe
+2118251817,Lancashire,Cheshire,4.832213812855822,street,Liverpool
+2118251931,Lancashire,Yorkshire,1.713039961034635,exact,Bolton by Bowland
+2118252977,Lancashire,Cheshire,3.650728239256976,area,Chorlton-Cum-Hardy
+2118253699,Lancashire,Cheshire,1.3492321172238897,exact,Liverpool
+2118254631,Lancashire,Cheshire,2.2426106160881916,exact,Warrington
+2118255189,Lancashire,Cheshire,1.3522561164159943,street,Liverpool
+-1837405182,Middlesex,Surrey,0.9258051653862802,street,London
+-1252131346,Middlesex,Hertfordshire,2.1584031887987094,area,Southgate
+-571971586,Middlesex,Surrey,0.5586289129971481,street,London
+157,Middlesex,Surrey,0.6626322074180075,street,London
+552,Middlesex,Surrey,0.4931050674796267,street,London
+555,Middlesex,Surrey,0.6626322074180075,street,London
+673,Middlesex,Surrey,0.6595190958095906,street,London
+223698334,Middlesex,Essex,0.6463283300618144,area,London
+444764076,Middlesex,Surrey,0.7330346172204754,street,London
+1758174967,Middlesex,Surrey,0.4601243479963278,street,London
+2118250649,Middlesex,Surrey,0.7330346172204754,street,London
+2118251649,Middlesex,Surrey,0.7118769566599719,area,Westminster
+2118252015,Middlesex,Surrey,0.7739383471274851,street,City of London
+2118252048,Middlesex,Surrey,1.6874971481264143,street,London
+2118252213,Middlesex,Surrey,0.563249558882302,street,London
+2118252219,Middlesex,Hertfordshire,1.5261377187612244,area,London
+2118253225,Middlesex,Surrey,0.7470568022979939,street,London
+-582864623,Oxfordshire,Berkshire,0.8836676150174897,exact,Henley-on-Thames
+223,Oxfordshire,Warwickshire,1.1579160116482907,exact,Banbury
+2118253909,Oxfordshire,Berkshire,1.9494745838295484,exact,
+2118254317,Shropshire,Cheshire,3.5069413615913794,exact,Whitchurch
+1298340404,Somerset,Gloucestershire,1.2044800043929864,area,Bristol
+2118250741,Somerset,Gloucestershire,2.04451622673381,street,Bristol
+2118256259,Somerset,Gloucestershire,1.653150294089286,exact,Bedminster
+-1772644074,Surrey,Middlesex,1.1731767486792586,area,Twickenham
+-17847608,Surrey,Middlesex,2.460565355656101,area,Chertsey
+118,Surrey,Middlesex,1.3475020854459494,exact,
+232,Surrey,Middlesex,1.9176563296374813,street,Battersea
+2118251028,Surrey,Middlesex,0.9861232640185996,street,London
+2118253118,Surrey,Middlesex,1.051405170419799,exact,Gunnersbury
+2118253223,Surrey,Buckinghamshire,2.3859321911524622,area,Egham
+2118253891,Surrey,Middlesex,0.31295360618918355,street,London
+233,Warwickshire,Worcestershire,2.7647782121958118,area,Birmingham
+2118254665,Warwickshire,Staffordshire,3.236837452567651,exact,Birmingham
+459471262,Westmorland,Lancashire,3.7817227087298657,street,Kirkby Lonsdale
+558182652,Westmorland,Lancashire,3.7639026258706463,area,Kirkby Lonsdale
+2118251105,Westmorland,Lancashire,5.033998760623905,exact,Bowness
+783,Worcestershire,Gloucestershire,0.27971518364737247,area,Pebworth
+1622030657,Worcestershire,Gloucestershire,0.27971518364737247,area,Pebworth
+2118251455,Worcestershire,Herefordshire,1.2270782562587124,area,Little Hereford
+2118256151,Worcestershire,Herefordshire,0.2885173697526666,street,Brockbury
