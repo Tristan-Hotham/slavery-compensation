@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this data or code, please cite it as below."
+title: "Where Slavery Money Came Home: The British Addresses of Slave-Owners and Compensation Claimants at Abolition, Mapped from the Legacies of British Slavery Database"
+type: dataset
+authors:
+  - family-names: Hotham
+    given-names: Tristan
+    orcid: "https://orcid.org/0000-0003-4931-9349"
+    affiliation: "Independent researcher"
+doi: "10.5281/zenodo.24113858"
+url: "https://maps.tristanhotham.com/slavery-compensation/"
+repository-code: "https://github.com/Tristan-Hotham/slavery-compensation"
+license: CC-BY-4.0
+keywords:
+  - "slavery compensation"
+  - "slave-ownership"
+  - "abolition"
+  - "Legacies of British Slavery"
+  - "historical geography"
+  - "country houses"
+  - "listed buildings"
+  - "Great Britain"
